@@ -1,0 +1,829 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo sermons preached before the Kings Maiestie at Whitehall. Of the birth of Christ The one on Christmas day anno 1609. The other on Christmas last anno 1610. By the Bishop of Elie his Maiesties almoner.</title>
+            <author>Andrewes, Lancelot, 1555-1626.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1610</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 124 KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11188</idno>
+            <idno type="STC">STC 628</idno>
+            <idno type="STC">ESTC S100160</idno>
+            <idno type="EEBO-CITATION">99836012</idno>
+            <idno type="PROQUEST">99836012</idno>
+            <idno type="VID">176668</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B11188)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176668)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 613:10, 733:5, 867:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo sermons preached before the Kings Maiestie at Whitehall. Of the birth of Christ The one on Christmas day anno 1609. The other on Christmas last anno 1610. By the Bishop of Elie his Maiesties almoner.</title>
+                  <author>Andrewes, Lancelot, 1555-1626.</author>
+                  <author>Andrewes, Lancelot, 1555-1626. Sermon preached before the Kings Majestie at White-hall, on Munday the 25. of December, being Christmas day, anno 1609. aut</author>
+                  <author>Andrewes, Lancelot, 1555-1626. Sermon preached before His Majestie at White-Hall, on Tuesday the 25. of December last, being Christmas day. aut</author>
+               </titleStmt>
+               <extent>[4], 41, [3]; [4], 46, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno 1610.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bishop of Elie = Lancelot Andrewes.</note>
+                  <note>The last leaf in each register is blank.</note>
+                  <note>The first leaf (second series) contains a large signature-mark "A" with part of a woodcut frame.</note>
+                  <note>Signature E (second series) wrongly imposed.</note>
+                  <note>"A sermon preached before the Kings Maiestie at White-hall, on Munday the 25. of December, being Christmas day, anno 1609" and "A sermon preached before His Maiestie at White-Hall, on Tuesday the 25. of December last, being Christmas day" each has separate title page (the first bearing the imprint date 1610), pagination and register; each work was possibly issued separately (STC 618 and 613).</note>
+                  <note>Identified as STC 627 on UMI microfilm reel 613; part 1 identified as 618 on UMI microfilm reel 867.</note>
+                  <note>Reproductions of the originals in the British Library, Cambridge University Library, and the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Appears at reel 613 (Cambridge University Library copy), at reel 733 (British Library copy), and at reel 867 (Henry E. Huntington Library and Art Gallery copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christmas sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176668:1" rendition="simple:additions"/>
+            <p>TWO Sermons preached before the Kings Maieſtie at <hi>Whitehall. Of the Birth of</hi> CHRIST.</p>
+            <p>The one on Chriſtmas day ANNO 1609.</p>
+            <p>
+               <hi>The other on Christmas day</hi> laſt ANNO 1610.</p>
+            <p>¶ By the Biſhop of <hi>Elie</hi> his Maieſties Almoner.</p>
+            <p>¶ Imprinted at London by <hi>Robert Barker,</hi> Printer to the Kings moſt Excel<g ref="char:EOLhyphen"/>lent Maieſtie. ANNO 1610.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:176668:2" rendition="simple:additions"/>
+                  <pb facs="tcp:176668:2" rendition="simple:additions"/>
+                  <p>A SERMON PREACHED BE<g ref="char:EOLhyphen"/>fore the Kings Maieſtie <hi>at White-hall,</hi> On Munday the 25. of De<g ref="char:EOLhyphen"/>cember, Being Chriſtmas day, ANNO 1609.</p>
+                  <p>¶ By the Biſhop of <hi>Elie</hi> His <hi>Maiesties Almoner.</hi>
+                  </p>
+                  <p>¶ Imprinted at London by <hi>Ro<g ref="char:EOLhyphen"/>bert Barker,</hi> Printer to the Kings moſt Excellent Maieſtie. <hi>Anno</hi> 1610.</p>
+               </div>
+            </front>
+            <body>
+               <div type="sermon">
+                  <pb facs="tcp:176668:3" rendition="simple:additions"/>
+                  <pb facs="tcp:176668:3"/>
+                  <head>A SERMON PREACHED BE<g ref="char:EOLhyphen"/>fore the Kings Maieſtie at <hi>Whitehall,</hi> on Chriſtmas day. ANNO 1609.</head>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>GALAT. 4. verſ. 4, 5.</hi>
+                        </bibl>
+                        <p>When the fulneſſe of time was come, God ſent his Sonne, made of a wo<g ref="char:EOLhyphen"/>man, made vnder the Law.</p>
+                        <p>That, He might redeeme, them that were vnder the Law, that we might receiue the Adoption of ſonnes.</p>
+                     </q>
+                  </epigraph>
+                  <p>
+                     <seg rend="decorInit">I</seg>F, <hi>when the fulneſſe of time commeth,</hi> God <hi>ſent his Sonne:</hi> then, When <hi>God ſent his Sonne, is the fulneſſe of time come.</hi> And as this day, <hi>God ſent his Sonne.</hi> This day therfore, (ſo oft as by the reuolution of the yeere it com<g ref="char:EOLhyphen"/>meth
+<pb n="2" facs="tcp:176668:4"/>about) is to vs a yeerely repreſenta<g ref="char:EOLhyphen"/>tion of <hi>the fulneſſe of time.</hi> So it is: and a ſpe<g ref="char:EOLhyphen"/>ciall honour it is to the <hi>Feast,</hi> that ſo it is. And we our ſelues ſeeme ſo to eſteeme of it. For we allow for euery <hi>month</hi> a <hi>day,</hi> (Looke how many <hi>months</hi> ſo many <hi>dayes</hi>) to this <hi>Feast;</hi> as if it were, and we ſo thought it to be, the <hi>full</hi> recapitulation of the whole yere.</p>
+                  <p>This honour it hath, from <hi>Chriſt,</hi> who is the <hi>ſubſtance</hi> of this, and all other <hi>Solemni<g ref="char:EOLhyphen"/>ties.</hi> Peculiarly, <hi>à Chriſti miſsâ,</hi> from <hi>Chriſts ſending.</hi> (For, they that read the ancient wri<g ref="char:EOLhyphen"/>ters of the <hi>Latin</hi> Church, <hi>Tertullian</hi> and <hi>Cy<g ref="char:EOLhyphen"/>prian,</hi> know that <hi>Miſſa,</hi> and <hi>Miſsio,</hi> and <hi>Re<g ref="char:EOLhyphen"/>miſsa, and Remiſsio,</hi> with them are taken for one. So that <hi>Christi miſſa</hi> is the <hi>ſending of Chriſt.</hi>) And when then hath this Text place ſo fit, as Now? Or what time ſo ſea<g ref="char:EOLhyphen"/>ſonable to entreat of it, as This? Of <hi>the ſen<g ref="char:EOLhyphen"/>ding of his Sonne;</hi> as, <hi>when God ſent his Sonne:</hi> Of <hi>the fulneſſe of time;</hi> as, on the yeerely re<g ref="char:EOLhyphen"/>turne and memoriall of it.</p>
+                  <p>To entreat of it then. The Heads are two. 1. Of <hi>the fulneſſe of time.</hi> 2. And of that, wherewith it is <hi>filled.</hi> 1. <hi>Times ful<g ref="char:EOLhyphen"/>neſſe,</hi>
+                     <pb n="3" facs="tcp:176668:4"/>in theſe, <hi>when the fulneſſe of time came.</hi> 2. <hi>Times filling</hi> in the reſt, <hi>God ſent his Sonne, made of a woman, made vnder the Law, &amp;c.</hi>
+                  </p>
+                  <p>In the former,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                     <hi>(Quando venit plenitudo temporis,)</hi> there be foure points. 1. <hi>Ple<g ref="char:EOLhyphen"/>nitudo temporis,</hi> That, <hi>time</hi> hath a <hi>fulneſſe;</hi> or, that there is <hi>a fulneſſe of time.</hi> 2. <hi>Venit plenitudo.</hi> That, that <hi>fulneſſe commeth,</hi> by ſteps and degrees, not all at once. 3. <hi>Quan<g ref="char:EOLhyphen"/>do venit.</hi> That, it hath a <hi>Quando,</hi> (That is,) There is a time, when <hi>time</hi> thus <hi>com<g ref="char:EOLhyphen"/>meth</hi> to this <hi>fulneſſe.</hi> 4. And, when that <hi>When</hi> is? And that is, <hi>When God ſent his Sonne.</hi> And ſo paſſe wee ouer to the other part, in the ſame Verſe, <hi>Miſit Deus; God ſent his Sonne.</hi>
+                  </p>
+                  <p>For the other part,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> (touching <hi>the filling of time.</hi>) There bee <hi>Texts,</hi> the right way to conſider of them, is to take them in pie<g ref="char:EOLhyphen"/>ces. And this is of that kinde. And if we take it in ſunder, we ſhall ſee, as it is of <hi>fulneſſe,</hi> ſo a kinde of <hi>fulneſſe</hi> there is in it: euery word, more <hi>full</hi> then other: e<g ref="char:EOLhyphen"/>uery word, a ſtep in it, whereby it riſeth ſtill
+<pb n="4" facs="tcp:176668:5"/>higher, till by <hi>ſeuen</hi> ſeuerall degrees it com<g ref="char:EOLhyphen"/>meth to the top, and ſo the <hi>meaſure</hi> is <hi>full.</hi> 1. <hi>God ſent,</hi> the firſt. 2. <hi>Sent his Sonne,</hi> the ſecond. 3. <hi>His Sonne made,</hi> the third. 4. And that <hi>twice</hi> made, <hi>made of a woman</hi> the fourth. 5. <hi>Made vnder the Law,</hi> the fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t, euery one <hi>fuller</hi> then other, ſtill.</p>
+                  <p>And all this,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> for ſome <hi>perſons,</hi> and ſome <hi>purpoſe.</hi> The perſons, <hi>Vt nos, that we.</hi> The purpoſe, <hi>reciperemus, that we might receiue.</hi> Nay, (if you marke it) there be two <hi>Vt's, vt ille, vt nos,</hi> that <hi>He might,</hi> and, that <hi>wee might. He</hi> might <hi>redeeme:</hi> and <hi>we</hi> might <hi>re<g ref="char:EOLhyphen"/>ceiue,</hi> that is, <hi>He</hi> pay for it, and, <hi>wee</hi> reape the benefit. 6. A double benefit, of <hi>Re<g ref="char:EOLhyphen"/>demption</hi> firſt from the ſtate of perſons caſt and condemned, <hi>vnder the Law,</hi> which is the <hi>ſixt.</hi> 7. And then, of tranſlation into the ſtate <hi>of adopted children</hi> of God, which is the <hi>ſeuenth;</hi> &amp; the very <hi>filling</hi> vp of the meaſure.</p>
+                  <p>All which, wee may reduce to a double <hi>fulneſſe. Gods,</hi> as much as <hi>Hee</hi> can ſend. <hi>Ours,</hi> as much as <hi>we</hi> can deſire. <hi>Gods,</hi> in the fiue firſt. 1. <hi>God ſent.</hi> 2. <hi>Sent his Sonne.</hi> 3. <hi>His Sonne made.</hi> 4. <hi>Made of a Woman.</hi>
+                     <pb n="5" facs="tcp:176668:5"/>5. <hi>Made vnder the Law.</hi> And <hi>Ours</hi> in the two latter, 6. <hi>Wee are redeemed,</hi> the ſixt. 7. <hi>We receiue adoption,</hi> the ſeuenth.</p>
+                  <p>In that of <hi>Gods,</hi> euery point is <hi>full;</hi> The thing ſent <hi>full.</hi> The <hi>ſending,</hi> and the <hi>maner</hi> of ſending, <hi>full.</hi> The <hi>making,</hi> and the two <hi>maners</hi> of making, <hi>Of a woman,</hi> and, <hi>vnder the Law,</hi> both <hi>full.</hi> And <hi>our fulneſſe</hi> in the two latter, the <hi>effects</hi> of theſe two <hi>Actes,</hi> or <hi>makings of a woman vnder the Lawe, Re<g ref="char:EOLhyphen"/>demption,</hi> and <hi>Adoption,</hi> which make vp all. That, when we were <hi>ſtrangers</hi> from the <hi>A<g ref="char:EOLhyphen"/>doption;</hi> and not that onely, but lay <hi>vnder the Law,</hi> as men whom ſentence had paſſed on: From this latter, wee are <hi>redeemed,</hi> (Hee <hi>vnder the Law,</hi> that we <hi>from vnder the Law</hi>) That, (being ſo <hi>redeemed</hi>) we might further <hi>receiue the adoption of children,</hi> (and as Hee <hi>the Sonne of man:</hi> So we might be made <hi>the ſonnes of God.</hi>) Which two are as much as we can wiſh. And this is <hi>Our fulneſſe.</hi>
+                  </p>
+                  <p>And to theſe,
+<milestone type="tcpmilestone" unit="unspecified" n="4,"/> I will craue leaue to adde another <hi>fulneſſe</hi> of <hi>Ours,</hi> riſing out of theſe, and to make a <hi>motion,</hi> for it. That, as it is the time, when <hi>wee</hi> from God, <hi>receiue</hi> the
+<pb n="6" facs="tcp:176668:6"/>
+                     <hi>fulneſse</hi> of his <hi>bounty:</hi> ſo it might be the time alſo, when <hi>He</hi> from vs, may likewiſe <hi>receiue</hi> the <hi>fulneſſe</hi> of our <hi>duetie.</hi> The time, of <hi>His Bounty-fulneſſe,</hi> and the time, of <hi>our Thanke<g ref="char:EOLhyphen"/>fulneſſe:</hi> That it may be <hi>Plenitudo temporis, quâ ad illum, quâ ad nos;</hi> downeward, and vpward; from <hi>Him</hi> to <hi>vs,</hi> and from <hi>vs</hi> to <hi>Him</hi> againe: and ſo bee both wayes, <hi>The fulneſſe of time.</hi>
+                  </p>
+                  <div type="part">
+                     <head>Quando venit plenitudo temporis.</head>
+                     <p>
+                        <seg rend="decorInit">F</seg>IRST,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> there is a <hi>fulneſſe</hi> in Time. The terme,
+<note place="margin">Plenitudo temporis.</note> 
+                        <hi>Fulneſſe,</hi> carieth our conceit to <hi>meaſure</hi> ſtraight, from whence it is borrowed: which, is then ſaid to bee <hi>full,</hi> when it hath as much, as it can hold.
+<note place="margin">Sap. 11.17.</note> Now, God <hi>hath made all things in mea<g ref="char:EOLhyphen"/>ſure:</hi> and if all things, then <hi>Time.</hi> Yea, <hi>Time</hi> it ſelfe is by the Apoſtle called,
+<note place="margin">Eph. 4.13.</note> 
+                        <hi>Menſura tem<g ref="char:EOLhyphen"/>poris,</hi> The meaſure of time. As then, all o<g ref="char:EOLhyphen"/>ther <hi>meaſures</hi> haue theirs; ſo the <hi>meaſure</hi> of
+<pb n="7" facs="tcp:176668:6"/>
+                        <hi>Time</hi> alſo hath <hi>his fulneſſe,</hi> when it receiueth ſo much, as the capacitie will conteine no more. So, <hi>Time</hi> is a <hi>meaſure:</hi> it hath a <hi>capaci<g ref="char:EOLhyphen"/>tie:</hi> that hath a <hi>fulneſſe.</hi> That, there is ſuch a thing, as <hi>the fulneſse of time.</hi>
+                     </p>
+                     <p>But, nothing is <hi>full</hi> at firſt:
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> no more is <hi>Time</hi> by and by. <hi>Venit plenitudo,</hi>
+                        <note place="margin">
+                           <g ref="char:V">Ʋ</g>enit ple<g ref="char:EOLhyphen"/>nitudo.</note> it com<g ref="char:EOLhyphen"/>meth, not at once, or ſtraightwayes, but by ſteps and paces, neerer and neerer: <hi>Fill's,</hi> firſt a quarter, and then halfe, till at laſt it come to the brim. And <hi>degrees</hi> there be, by which it commeth.
+<note place="margin">Alcuin.</note> 
+                        <hi>Ecce palmares poſuiſti dies meos,</hi> Pſal. 39.6. From which word <hi>pal<g ref="char:EOLhyphen"/>mares,</hi> it is an obſeruation of one of the Fa<g ref="char:EOLhyphen"/>thers, a man may reade his <hi>time</hi> in his owne hand: there is a likeneſſe betweene a mans <hi>hand,</hi> and his <hi>time.</hi> As in the <hi>hand,</hi> viſibly there is an aſcent, the fingers riſe ſtill, till they come to the top of the middle finger; and when they be come thither, downe againe by like deſcent, till they come to the little, which is the loweſt of all: So is it in our <hi>time;</hi> It riſeth ſtill <hi>by degrees,</hi> till we come to the <hi>full</hi> pitch of our Age, and then declineth againe, till we grow to the lower end of our
+<pb n="8" facs="tcp:176668:7"/>
+                        <hi>dayes.</hi> But, howſoeuer it may be (as it oft falles out) the deſcent is ſudden, wee goe downe headlong without degrees, goe a<g ref="char:EOLhyphen"/>way in a moment; yet, euer this holdeth, to our <hi>fulneſſe</hi> we come not, but <hi>by degrees.</hi>
+                     </p>
+                     <p>Now thirdly,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> this <hi>comming</hi> hath a <hi>Quan<g ref="char:EOLhyphen"/>do venit,</hi>
+                        <note place="margin">Quando venit.</note> a <hi>time,</hi> when it <hi>commeth</hi> thither. As a time there is a great while, when wee may ſay,
+<note place="margin">Ioh. 7.6.</note> 
+                        <hi>Nondum venit hora,</hi> the time is not yet come, while the <hi>meaſure</hi> is yet but in <hi>filling:</hi>
+                        <note place="margin">Ioh. 12.23.</note> So at the laſt, a time too, that we may ſay, <hi>Venit hora,</hi> the time is now <hi>come,</hi> when the <hi>meaſure</hi> is <hi>full:</hi> That is, A <hi>time</hi> there is, when <hi>time commeth to the full:</hi> As in the <hi>day,</hi> when the <hi>Sunne</hi> commeth to the <hi>Meridian Line:</hi> in the <hi>moneth,</hi> when it commeth to the point of <hi>oppoſition</hi> with the <hi>Moone:</hi> in the <hi>Yeare,</hi> when to the <hi>Solſtice:</hi> In <hi>man,</hi> when he commeth to his <hi>full</hi> yeres: for that is the <hi>fulneſſe of time</hi> the Apoſtle alledgeth, in the three verſes before.</p>
+                     <p>And,
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> when is that <hi>When,</hi> that <hi>time</hi> thus <hi>commeth</hi> to his <hi>fulneſſe?</hi>
+                        <note place="margin">Quando.</note> 
+                        <hi>Quando miſit Deus,</hi> when God ſends it: for, <hi>Time</hi> receiues his <hi>filling</hi> from God. Of it ſelfe, <hi>time</hi> is but an
+<pb n="9" facs="tcp:176668:7"/>
+                        <hi>emptie meaſure,</hi> hath nothing in it: Many dayes and moneths runne ouer our heads, <hi>Dies inanes,</hi> ſayth the <hi>Pſalmiſt. Menſes va<g ref="char:EOLhyphen"/>cui,</hi> ſayth <hi>Iob: Emptie dayes,</hi> Pſal. 78.33. <hi>Void moneths,</hi> without any thing to fill them, Iob 7.3.</p>
+                     <p>That which <hi>filleth time,</hi> is ſome memora<g ref="char:EOLhyphen"/>ble thing of <hi>Gods</hi> powring into it, or (as it is in the Text) of <hi>his ſending,</hi> to <hi>fill</hi> it withall. <hi>Miſit Deus</hi> is it: and ſo commeth <hi>Time</hi> to be more or leſſe <hi>full;</hi> thereafter as that is, which <hi>God ſends</hi> to <hi>fill</hi> it.</p>
+                     <p>Now, many memorable <hi>miſsion's</hi> did <hi>God</hi> make, before this heere; whereby in ſome meaſure, hee <hi>filled</hi> vp certaine times of the yeere vnder <hi>Moſes,</hi> and the <hi>Prophets:</hi> all which, may well be termed, <hi>The imple<g ref="char:EOLhyphen"/>ments of Time.</hi>
+                     </p>
+                     <p>But, for all them, the <hi>meaſure</hi> was not yet <hi>full: filled</hi> perhaps to a certaine <hi>degree,</hi> but not <hi>full</hi> to the <hi>brimme: full</hi> it was not (ſeeing it might be ſtil <hi>fuller</hi>) till <hi>God ſent</hi> That, then which, a more <hi>full</hi> could not be <hi>ſent.</hi>
+                     </p>
+                     <p>And, That <hi>He</hi> ſent, when <hi>He ſent his Son,</hi> a <hi>fuller</hi> then whom, <hi>He</hi> could not <hi>ſend,</hi> nor
+<pb n="10" facs="tcp:176668:8"/>
+                        <hi>Time</hi> could not <hi>receiue.</hi> Therefore, with the <hi>ſending Him,</hi> when that was, <hi>Time</hi> was at the top, that was the <hi>Quando venit,</hi> then it was <hi>plenitudo temporis,</hi> indeed.</p>
+                     <p>And,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> well might that <hi>Time,</hi> be called <hi>the fulneſſe of Time.</hi> For, when <hi>He</hi> was ſent in<g ref="char:EOLhyphen"/>to the world,
+<note place="margin">Col. 2.9. Ioh. 3.34. Ioh. 1.14. Ioh. 1.16.</note> in whom <hi>the fulnes of the God<g ref="char:EOLhyphen"/>head dwelt bodily.</hi> In whome <hi>the Spirit was not by meaſure.</hi> In whom was <hi>the fulneſſe of grace and trueth.</hi> Of <hi>whoſe fulneſſe we all re<g ref="char:EOLhyphen"/>ceiue,</hi> when <hi>He</hi> was ſent, that was thus <hi>full,</hi> then was <hi>Time</hi> at the <hi>full.</hi>
+                     </p>
+                     <p>And well alſo might it be called, <hi>the ful<g ref="char:EOLhyphen"/>neſse of Time,</hi> in another regard. For, till then all was but in <hi>promiſe,</hi> in <hi>ſhadowes,</hi> and <hi>figures,</hi> and <hi>prophecies</hi> onely, which <hi>fill</hi> not, God knowes. But when the <hi>performance</hi> of thoſe <hi>promiſes,</hi> the <hi>body</hi> of thoſe <hi>ſhadowes,</hi> the <hi>ſubſtance</hi> of thoſe <hi>figures,</hi> the <hi>fulfilling</hi> or <hi>filling full</hi> of all thoſe <hi>Prophecies</hi> came, then <hi>came the fulneſſe of Time,</hi> truely ſo called. Till then, it <hi>came</hi> not: then, it <hi>came.</hi>
+                     </p>
+                     <p>And well might it be called the <hi>fulneſſe</hi> of <hi>time,</hi>
+                        <milestone type="tcpmilestone" unit="unspecified" n="2"/> in a <hi>third</hi> reſpect. For, then, the Heire, (that is <hi>the world</hi>) was come to his <hi>full age:</hi>
+                        <pb n="11" facs="tcp:176668:8"/>and ſo, that the fitteſt <hi>time,</hi> for <hi>Him</hi> to bee <hi>ſent.</hi> For to that, compareth the Apoſtle their eſtate then; that, the former times vn<g ref="char:EOLhyphen"/>der <hi>Moſes</hi> and the <hi>Prophets</hi> were as the Noneage of the world; <hi>ſub Paedagogo,</hi> in the 3. <hi>Chapter, ver.</hi> 24. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, at their <hi>A. B. C.</hi> or rudiments, (as in the very laſt words be<g ref="char:EOLhyphen"/>fore theſe) Their eſtate then, as of <hi>Children</hi> in their minority, <hi>litle differing from ſeruants.</hi> For, all this while, <hi>nondum venit,</hi> the <hi>fulnes</hi> of <hi>time</hi> was not yet <hi>come.</hi> But a <hi>time</hi> there was, as for <hi>man;</hi> ſo for <hi>mankind</hi> to come to his <hi>full</hi> yeeres: That <hi>time, came</hi> with <hi>Chriſts comming,</hi> and <hi>Chriſts comming</hi> with it, and neuer till then, was <hi>the fulneſſe of time;</hi> but then, it was.</p>
+                     <p>And let this bee enough, for this point; more there is not in the <hi>Text.</hi> But if any ſhall further aske, why <hi>then,</hi> at that age of the world, the world was at his <hi>full age,</hi> iuſt then, and neither ſooner nor later? I know, many heads haue bene full of deuices, to ſa<g ref="char:EOLhyphen"/>tisfie mens curioſitie in that point. But, I hold it ſafeſt, to reſt with the Apoſtle (in the ſecond verſe) on Gods <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Let that con<g ref="char:EOLhyphen"/>tent
+<pb n="12" facs="tcp:176668:9"/>vs. Then was the time, for that was <hi>Tempus praefinitum à Patre,</hi> the time appoin<g ref="char:EOLhyphen"/>ted of the Father. For, euen among men, (though the <hi>Father</hi> being dead) the Lawe ſetteth a time, for the <hi>Sonne</hi> to come to his heritage: yet the <hi>Father</hi> liuing, no time can be prefixed, but onely when it liketh Him to appoint; and the <hi>Father</hi> here, liueth; and therefore let his <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>ſtay vs.
+<note place="margin">Acts 1.7.</note> 
+                        <hi>The times and ſeaſons, He hath put in his owne power, it is not for vs to know them.</hi> This is for vs to know, that, with his appointment, we muſt come to a full point. So doth the <hi>Apostle:</hi> and ſo let vs, and not buſie our ſelues much with it. <hi>Time</hi> is but the <hi>meaſure</hi> or caske; that wher<g ref="char:EOLhyphen"/>with it is <hi>filled,</hi> doth more concerne vs. To that therefore let vs come.</p>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="2"/> The <hi>degrees</hi> are <hi>ſeuen</hi> (as I ſaid.
+) To take them,
+<note place="margin">God ſent.</note> as they riſe. <hi>Miſit Deus. God ſent.</hi> That ſtandeth firſt;
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> and, at it, let our firſt ſtay be. That, will fall out, to make the <hi>firſt</hi> degree. For, euen this, that <hi>God ſent</hi> at all, <hi>Ipſum mit<g ref="char:EOLhyphen"/>tere Dei,</hi> this very <hi>ſending</hi> it ſelfe, is a degree. It is ſo; and ſo we would reckon of it, if we knew the <hi>Sender,</hi> and who <hi>He</hi> is; the <hi>Maie<g ref="char:EOLhyphen"/>ieſtie</hi>
+                        <pb n="13" facs="tcp:176668:9"/>of his preſence how great it is, and how glorious, how farre ſurpaſsing all we can ſee on earth.</p>
+                     <p>For <hi>Him,</hi> for ſuch an one as <hi>Hee,</hi> to con<g ref="char:EOLhyphen"/>deſcend, but to <hi>ſend;</hi> is ſure a degree. For, ynough it had beene, and more then y<g ref="char:EOLhyphen"/>nough, for <hi>Him,</hi> to be <hi>ſent to;</hi> and not to <hi>ſend, Himſelfe.</hi> To haue ſit ſtill, and bene content, that we might <hi>ſend</hi> to <hi>Him,</hi> and haue our meſſage and petition admitted; and not, <hi>He ſend</hi> to vs. That had bene as much as we could looke for, and well, if we might haue bene vouchſafed but that. But it was <hi>He,</hi> that <hi>ſent:</hi> not <hi>we</hi> to <hi>Him</hi> firſt, nay, not <hi>we</hi> to <hi>Him</hi> at all, but, <hi>He</hi> to <hi>vs.</hi>
+                     </p>
+                     <p>
+                        <hi>He to vs?</hi> And what were <hi>we,</hi> that <hi>He to vs? Vs,</hi>
+                        <note place="margin">Epheſ. 2.12.</note> (as elſewhere he termeth vs) <hi>meere A<g ref="char:EOLhyphen"/>liens from Him,</hi> and <hi>His Houſhold;</hi> Not that onely, but <hi>Vs,</hi> in caſe of men, whom the Law had paſſed vpon. (So is our eſtate deſcri<g ref="char:EOLhyphen"/>bed in the end of the Text:) for <hi>Him,</hi> to <hi>ſend to Vs,</hi> ſo <hi>great</hi> as <hi>Hee,</hi> to <hi>ſuch</hi> as <hi>wee;</hi> to thinke <hi>vs, tanti,</hi> ſo much worth, as to make any <hi>miſsion,</hi> or motion, or to diſeaſe any a<g ref="char:EOLhyphen"/>bout <hi>vs;</hi> This, may well be the <hi>first.</hi> Be
+<pb n="14" facs="tcp:176668:10"/>it then ſo; that <hi>to vs,</hi> or <hi>for vs,</hi> or <hi>concer<g ref="char:EOLhyphen"/>ning vs, God</hi> would trouble <hi>Himſelfe,</hi> to make any <hi>ſending.</hi> A <hi>fulneſſe,</hi> there is in this. <hi>Full Hee</hi> was; <hi>a fulneſse</hi> there was in <hi>Him,</hi> (euen the <hi>fulneſſe of compaſsion</hi> in His bow<g ref="char:EOLhyphen"/>els ouer our eſtate,) elſe ſuch a <hi>Sender,</hi> would neuer once haue <hi>ſent.</hi>
+                     </p>
+                     <p>
+                        <hi>God ſent;</hi>
+                        <note place="margin">His Sonnc.</note> 
+                        <hi>Sent,</hi> and <hi>ſent his Sonne.</hi> 
+                        <milestone type="tcpmilestone" unit="unspecified" n="2"/> That, (I make no queſtion,
+) will beare a <hi>ſecond. Others</hi> He might haue <hi>ſent;</hi> and <hi>whoſoeuer</hi> it had bene Hee had <hi>ſent,</hi> it might well haue ſerued our turnes. If, ſent by the hand of any his <hi>Seruants,</hi> any <hi>Patriarch, Prophet,</hi> any <hi>ordinary meſſenger,</hi> it had beene ynough. So hitherto had bene his <hi>Sending.</hi> So, and no otherwiſe, euer till now.</p>
+                     <p>Then, if to <hi>ſend</hi> by <hi>any</hi> may ſeeme ſuffi<g ref="char:EOLhyphen"/>cient; to <hi>ſend His Sonne,</hi> muſt needs ſeeme <hi>full.</hi> For, euer the more excellent the <hi>Per<g ref="char:EOLhyphen"/>ſon ſent,</hi> the more honourable the <hi>ſending:</hi> the <hi>greater He;</hi> the <hi>fuller it.</hi> Now, <hi>greater</hi> there is not,
+<note place="margin">Coloſ. 2.9.</note> then <hi>His ſonne,</hi> His <hi>first,</hi> His <hi>onely begotten Sonne,</hi> in <hi>whom the fulnes of the God head dwelt;</hi> In ſending <hi>Him,</hi> He ſent the greateſt, the beſt, the <hi>fulleſt</hi> thing He had.</p>
+                     <pb n="15" facs="tcp:176668:10"/>
+                     <p> To heape the <hi>meaſure</hi> vp yet more, with the <hi>cauſe</hi> of his <hi>ſending,</hi> in the word <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>; It was <hi>voluntarie.</hi> Hee ſent him not for <hi>need:</hi> but for meere loue to vs, and nothing elſe. There was no <hi>abſolute neceſsitie,</hi> that He ſhould haue ſent <hi>Him.</hi> He might haue done what Hee intended by the meanes and miniſterie of ſome beſides. God could haue enabled a <hi>Creature;</hi> a <hi>Creature</hi> ena<g ref="char:EOLhyphen"/>bled by God, <hi>and the power of his might,</hi> could ſoone haue <hi>troad downe Sathan vn<g ref="char:EOLhyphen"/>der our feete.</hi> But, if it had bene any <hi>other</hi> He had ſent; his loue and regard to vs, had not ſhewed ſo <hi>full.</hi> It had bin <hi>ostendit Deus charitatem,</hi> but not, <hi>Ecce quantam charitatem ostendit Deus.</hi>
+                        <note place="margin">1. Iohn. 3.1.</note> Whomſoeuer He had ſent beſides, his loue had not bene <hi>full,</hi> at leaſt not <hi>ſo full,</hi> as it ſhould haue beene, if He had ſent <hi>his Sonne.</hi> That therefore it might be <hi>full,</hi> and ſo appeare to vs for <hi>full; Miſit Deus filium ſuum.</hi> Enough it was, in compaſsi<g ref="char:EOLhyphen"/>on of our eſtate, to haue releeued vs, by <hi>any:</hi> Men that are in need to be releeued, care not, <hi>who</hi> they be that doe it. Enough then for <hi>compaſsion:</hi> but not enough, to manifeſt
+<pb n="16" facs="tcp:176668:11"/>
+                        <hi>the fulneſſe</hi> of his loue, vnleſſe to releeue vs, <hi>He ſent his owne Sonne.</hi>
+                     </p>
+                     <p>This is <hi>full,</hi>
+                        <note place="margin">Made.</note> one would thinke: Yet, the <hi>Manner</hi> of his <hi>ſending</hi> him,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> is <hi>fuller</hi> ſtill. <hi>Mi<g ref="char:EOLhyphen"/>ſit filium; Filium factum.</hi> Sent his Sonne; His Sonne <hi>made.</hi> Sent Him, and ſent Him <hi>made.</hi> This is a <hi>third.</hi> For, if He would haue ſent Him, He ſhould not haue ſent Him, <hi>made:</hi> but as He was, <hi>neither made, nor crea<g ref="char:EOLhyphen"/>ted,</hi> but like himſelfe, in his owne eſtate, as was meete for the <hi>Sonne of God,</hi> to bee ſent. To <hi>make Him</hi> any thing, is to <hi>marre Him,</hi> be it what it will be. To <hi>ſend Him made,</hi> is to <hi>ſend Him marred,</hi> and no better. There<g ref="char:EOLhyphen"/>fore, I make no doubt, <hi>Chriſts ſending</hi> is one degree, <hi>His making</hi> is another: So <hi>to ſende,</hi> as withall <hi>to make,</hi> are two diſtinct meaſures, of this <hi>filling.</hi> As He is, Hee is a <hi>Maker,</hi> a <hi>Creator:</hi> If God <hi>make Him</hi> any thing, Hee muſt be a thing <hi>made,</hi> a <hi>Creature;</hi> and that, is a great diſparagement. So that, how<g ref="char:EOLhyphen"/>ſoeuer the <hi>Time</hi> is the <hi>fuller,</hi> for this; He is the <hi>emptier:</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. The fulneſſe of Time, is his emptineſſe; The exalting of that,
+<note place="margin">Phil. 2.7.</note> his abaſing. And, this very <hi>Exinani<g ref="char:EOLhyphen"/>uit
+<pb n="17" facs="tcp:176668:11"/>ſeipſum,</hi> emptying Himſelfe, for our ſake, is a preſsing downe the <hi>meaſure:</hi> and ſo, euen by that, ſtill the <hi>meaſure</hi> is more <hi>full.</hi>
+                     </p>
+                     <p>Yea, the very <hi>maner</hi> of this <hi>making,</hi> hath his encreaſe too, addeth to it ſtill. In the word <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>: which is not euery <hi>making,</hi> but <hi>making it his nature.</hi> To haue <hi>made</hi> Him a bodie, and taken it vpon him for a time, till He had performed his Embaſſage, and then laid it off againe, that, had bene much: But ſo to be <hi>made,</hi> as once <hi>made</hi> and <hi>euer made:</hi> ſo to take it, as neuer lay it of more, but, continue ſo ſtill, <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> it to <hi>become his very na<g ref="char:EOLhyphen"/>ture;</hi> ſo to <hi>be made,</hi> is to <hi>be made</hi> indeed, ſo to <hi>to be made</hi> is to <hi>make</hi> the <hi>vnion full.</hi> And to <hi>make</hi> the <hi>vnion with vs full,</hi> He was content, not to be <hi>ſent</hi> alone, but to be <hi>made,</hi> and that <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, to be <hi>made ſo,</hi> as neuer <hi>vnmade</hi> more. Our <hi>manhood</hi> becomming his <hi>nature,</hi> no leſſe then the <hi>Godhead</hi> it ſelfe: This is <hi>Filium factum</hi> indeed.</p>
+                     <p>
+                        <hi>Made,</hi> and twiſe <hi>made,</hi> (for ſo it is in the verſe) <hi>factum ex,</hi> and <hi>factum ſub, made of,</hi> and <hi>made vnder. Of a woman; vnder, the Law.</hi> So, two <hi>makings</hi> there bee, either of them of it ſelfe, a <hi>filling</hi> to the <hi>meaſure,</hi> but,
+<pb n="18" facs="tcp:176668:12"/>both of them, maketh it perfectly full.</p>
+                     <p>
+                        <hi>Made,</hi>
+                        <note place="margin">Made of a woman.</note> firſt <hi>of a woman:</hi> that, I take cleerly to be <hi>one.</hi>
+                        <milestone type="tcpmilestone" unit="unspecified" n="4"/> For, if <hi>Hee,</hi> if the <hi>Sonne of God</hi> muſt be <hi>made a Creature;</hi> it were meet, He ſhould <hi>be made,</hi> the beſt <hi>creature</hi> of all. And if <hi>made</hi> of any thing, (if any one thing, bet<g ref="char:EOLhyphen"/>ter then another) of that: <hi>made</hi> ſome glo<g ref="char:EOLhyphen"/>rious Spirit, Some of the orders of the An<g ref="char:EOLhyphen"/>gels.
+<note place="margin">Iohn 1.14. Heb. 2.16.</note> Nay, <hi>made,</hi> but <hi>made</hi> no Spirit, <hi>Ver<g ref="char:EOLhyphen"/>bum caro factum est,</hi> The word became fleſh: <hi>made,</hi> but <hi>made</hi> no Angel: <hi>Nuſquam Angelos:</hi> He in no wiſe tooke the <hi>Angels</hi> nature vpon Him.</p>
+                     <p>But <hi>made man,</hi> Firſt I will aske with <hi>Da<g ref="char:EOLhyphen"/>uid,</hi>
+                        <note place="margin">Pſal. 144.3.</note> 
+                        <hi>Domine, quid eſt homo?</hi> Lord, what is man? And then, tell you his anſwere: <hi>Ho<g ref="char:EOLhyphen"/>mo quaſi res nihili.</hi> Man is like a thing of nought. And this he was <hi>made,</hi> this he be<g ref="char:EOLhyphen"/>came, <hi>made man, made of a woman; did not abhorre the Virgines wombe,</hi> (as wee ſing daily, to the high praiſe of the <hi>fulneſse of his humilitie,</hi> to which his Loue brought Him for our ſakes.) For, <hi>whatſoeuer</hi> elſe He had bene <hi>made,</hi> it would haue done vs no good. In this then, was the <hi>fulneſſe</hi> of his Loue, as
+<pb n="19" facs="tcp:176668:12"/>before of his <hi>Fathers,</hi> that He would bee <hi>made,</hi> and was <hi>made,</hi> not <hi>what</hi> was <hi>fitteſt</hi> for <hi>Him,</hi> but <hi>what</hi> was <hi>beſt,</hi> for <hi>vs:</hi> not, <hi>what</hi> was moſt for his <hi>glory,</hi> but <hi>what</hi> was moſt, for our <hi>benefit</hi> and behoofe.</p>
+                     <p>
+                        <hi>Made of a woman.</hi> For <hi>man</hi> He might haue bin <hi>made,</hi> &amp; yet haue had a body framed for Him <hi>in heauen,</hi> and not <hi>made of a woman.</hi> But when he ſaith, <hi>Factu<g ref="char:cmbAbbrStroke">̄</g> ex muliere,</hi> it is euident, He paſſed not <hi>through Her as water through a Conduite Pipe,</hi> (as, fondly dreameth the A<g ref="char:EOLhyphen"/>nabaptiſt.) <hi>Made</hi> of, <hi>Factum ex: Ex, dicit materiam.</hi> Made of Her; She miniſtred the matter, <hi>Fleſh of her fleſh. Semen mulieris.</hi>
+                        <note place="margin">Gen. 3.15.</note> The ſeed, and <hi>Semen intimum ſubſtantiae,</hi> that is, the principal and very inward chiefe part of the <hi>ſubſtance.</hi> Made of that, made of her very <hi>ſubſtance.</hi>
+                     </p>
+                     <p>And ſo haue we here now in one, both twaine his <hi>Natures. God ſent his Sonne,</hi> There his <hi>Diuine: made of a woman,</hi> Here his <hi>humane Nature,</hi> That, from <hi>the boſome of his Father,</hi> before all worlds: this, <hi>from the wombe of his mother,</hi> in the world. So that, as from <hi>eternitie, God</hi> his <hi>Father</hi> might ſay,
+<pb n="20" facs="tcp:176668:13"/>that verſe of the Pſalme.
+<note place="margin">Pſal. 2.7.</note> 
+                        <hi>Filius meus es tu, hodie genuite:</hi> Thou art my Sonne, this day haue I begotten thee. So, in <hi>the fulneſſe of time,</hi> might the <hi>Virgin</hi> his <hi>mother,</hi> no leſſe truely ſay, <hi>Filius meus es tu, hodie peperi te:</hi> Thou art my Sonne, this day haue I brought thee into the world.</p>
+                     <p>And heere now, at this word, <hi>made of a woman,</hi> He beginneth to concerne <hi>vs</hi> ſome<g ref="char:EOLhyphen"/>what. There groweth an alliance betweene <hi>vs:</hi> For <hi>we alſo</hi> are <hi>made of a woman.</hi> And our hope is, as, He will not be confounded, to bee counted <hi>inter natos mulierum:</hi> No more will He be,
+<note place="margin">Heb. 2.11. Rom. 8.29.</note> (ſaith the <hi>Apostle</hi>) to ſay <hi>in medio fratrum;</hi> to acknowledge vs, his <hi>Brethren.</hi> And ſo by this <hi>Time</hi> He grow<g ref="char:EOLhyphen"/>eth, ſomewhat <hi>neere vs.</hi>
+                     </p>
+                     <p>This now,
+<note place="margin">Made vn<g ref="char:EOLhyphen"/>der the Law.</note> is <hi>full</hi> for the vnion with our nature, <hi>to be made of a woman.</hi> But ſo to be <hi>made of a woman,</hi> without He be alſo <hi>made vnder the Law,</hi>
+                        <milestone type="tcpmilestone" unit="unspecified" n="5"/> is not neere enough yet. For, if he be out of the compaſſe of the <hi>Law,</hi> that the <hi>Law</hi> cannot take hold of Him, <hi>factum ex muliere</hi> will doe vs ſmall pleaſure. And He was ſo borne, <hi>ſo made of a woman:</hi> As, the
+<pb n="21" facs="tcp:176668:13"/>veritie, of His conception, is in this <hi>factum ex muliere:</hi> So, the puritie, is in this, that it is but <hi>ex muliere,</hi> and no more; Of the <hi>vir<g ref="char:EOLhyphen"/>gin</hi> alone, by the power of the <hi>Holy Ghoſt,</hi> without mixture of fleſhly generation. By vertue whereof, no originall ſoile was in Him; <hi>luſt</hi> borne He was,
+<note place="margin">1. Tim. 1.9.</note> and <hi>Iuſto non eſt lex poſita,</hi> No law for the luſt, no law could touch him. And ſo wee, neuer the better, for <hi>factum ex muliere.</hi>
+                     </p>
+                     <p>For, if one be in debt and danger of the <hi>Law,</hi> to haue a <hi>Brother,</hi> of the ſame blood, <hi>made of the ſame woman,</hi> both (as we ſay) <hi>lying in one belly;</hi> will little auaile him, except He will alſo, come vnder the Law, that is, become his Surety, and vndertake for him. And ſuch was our eſtate. As Debters we were, by vertue of <hi>Chirographum contra nos,</hi>
+                        <note place="margin">Col. 2.14.</note> The hand writing that was againſt vs. Which was our <hi>Bond,</hi> and we had forfeited it. And ſo, <hi>factus ex muliere,</hi> to vs, without <hi>fa<g ref="char:EOLhyphen"/>ctus ſublege,</hi> would haue ben to ſmalpurpoſe.</p>
+                     <p>No remedy therefore, Hee muſt bee new <hi>made, made</hi> againe once more. And ſo Hee was, caſt in a new mould, &amp; at his ſecond
+<pb n="22" facs="tcp:176668:14"/>
+                        <hi>making, made vnder the Law,</hi> vnder which if He had not <hi>beene made,</hi> we had beene mar<g ref="char:EOLhyphen"/>red: euen quite vndone for euer, if this had not beene done for vs too. Therfore, He became bound for vs alſo, entred Bond a<g ref="char:EOLhyphen"/>new, tooke on Him, not only our <hi>nature,</hi> but our <hi>Debt;</hi> our <hi>Nature,</hi> and <hi>Condition</hi> both. <hi>Nature,</hi> as men: <hi>Condition,</hi> as ſinfull men; ex<g ref="char:EOLhyphen"/>preſſed in the words following; <hi>[Them, that were vnder the lawe]</hi> for that was our <hi>Condi<g ref="char:EOLhyphen"/>tion.</hi> There had indeed beene no capacitie in him, to doe this, if the former had not gone before, <hi>factum ex muliere;</hi> if He had not bene, as we, <hi>made of a woman;</hi> but the for<g ref="char:EOLhyphen"/>mer was for this; <hi>Made of a woman</hi> He was, that He might be <hi>made vnder the law:</hi> Being <hi>ex muliere,</hi> He might then become <hi>ſub lege,</hi> which before He could not, but then He might and did: And ſo, this ſtill is the <hi>fuller.</hi>
+                     </p>
+                     <p>And when did He this? when was <hi>He made vnder the lawe?</hi> Euen then, when he was <hi>circumciſed.</hi>
+                        <note place="margin">Gal. 5.3.</note> For this doth <hi>S. Paul teſti<g ref="char:EOLhyphen"/>fie,</hi> in the <hi>third</hi> of the <hi>next Chapter; Behold, I Paul testifie vnto you, whoſoeuer is circumci<g ref="char:EOLhyphen"/>ſed, factus eſt debitor vniuerſae legis.</hi> He be<g ref="char:EOLhyphen"/>comes
+<pb n="23" facs="tcp:176668:14"/>a debter to the whole lawe. At His <hi>Circumciſion</hi> then, He entred <hi>Bond</hi> anewe with vs, and in ſigne that ſo He did, He ſhed then a few drops of his blood, wherby He ſigned the <hi>Bonde</hi> (as it were) and gaue thoſe few drops then, <hi>tanquam arrham vni<g ref="char:EOLhyphen"/>uerſi ſanguinis effundendi;</hi> as a pledge or ear<g ref="char:EOLhyphen"/>neſt, that <hi>when the fulneſſe of time came,</hi> He would be readie to ſhed all the reſt; as He did. For, I would not haue you miſtake, though we ſpeake of this, <hi>ſub lege,</hi> being vn<g ref="char:EOLhyphen"/>der the law, in the termes of a <hi>Debt</hi> ſome<g ref="char:EOLhyphen"/>times: yet, the truth is, this <hi>debt</hi> of ours was no <hi>money debt,</hi> we were not <hi>ſub lege pecunia<g ref="char:EOLhyphen"/>riâ,</hi> but <hi>Capitali:</hi> and the <hi>debt</hi> of a <hi>Capitall law,</hi> is death: and vnder that, vnder <hi>Death</hi> He went, and that the worſt <hi>death</hi> law had to inflict, euen the <hi>Death of the Croſſe,</hi> the moſt bitter, reprochful, curſed death of the <hi>Croſſe.</hi> So that vpon the matter, <hi>factus ſub lege,</hi> and <hi>factus in Cruce,</hi> come both to one; one a<g ref="char:EOLhyphen"/>mounts to as much, as the other. Well, this He did vndertake for vs, at His <hi>Circumciſion:</hi> and therefore then, and not till then, He had his name giuen him, the name of <hi>Ieſus,</hi>
+                        <note place="margin">Luk. 2.21</note>
+                        <pb n="24" facs="tcp:176668:15"/>
+                        <hi>a Sauiour.</hi> For then, tooke He on him the <hi>Obligation</hi> to ſaue vs. And looke, what then at his <hi>Circumciſion</hi> He vndertooke, at his <hi>Paſsion</hi> he paid,
+<note place="margin">Col. 2.14.</note> euen to the full, and hauing paid it, <hi>deleuit Chirographum,</hi> cancelled the ſentence of the lawe, that till then, was of record, and ſtoode in full force againſt vs.</p>
+                     <p>Howbeit all this, was but one part of the lawe, But He was <hi>made ſub lege vniuerſâ,</hi> vn<g ref="char:EOLhyphen"/>der the whole law, and that, not by his <hi>death</hi> onely, but by his <hi>life</hi> too. The one halfe of the lawe, (that is, the <hi>Directiue</hi> part) He was <hi>made vnder</hi> that, and ſatiſfied it, by the In<g ref="char:EOLhyphen"/>nocencie of his life, without breaking ſo much, as one iot or tittle of the lawe: and ſo, anſwered that part (as it might be, the Principall.) The other halfe of the lawe, which is the <hi>Penaltie,</hi> He was vnder that part alſo, &amp; ſatiſfied it, by ſuffering a wrong<g ref="char:EOLhyphen"/>full death, no way deſerued, or due by him, and ſo anſwered that (as it might be the for<g ref="char:EOLhyphen"/>feiture.) So, He was <hi>made vnder both, vnder the whole law.</hi> Satisfying the <hi>Principall,</hi> there was no reaſon, He ſhould be lyable to the <hi>forfeiture,</hi> and <hi>penaltie:</hi> yet, <hi>vnder that</hi> He
+<pb n="25" facs="tcp:176668:15"/>was alſo. And all, that the whole law might be ſatisfied fully, by His being vnder both parts, and ſo, no part of it light vpon vs.</p>
+                     <p>Theſe two then, 1. <hi>Made of a woman.</hi> 2. <hi>Made vnder the lawe,</hi> ye ſee, are <hi>two</hi> ſe<g ref="char:EOLhyphen"/>uerall makings, and both very requiſite. Therefore, Either hath a ſeuerall <hi>Feaſt,</hi> they diuide this <hi>Solemnitie</hi> betweene them. <hi>Sixe dayes</hi> a peece, to Either; as the ſeuerall moi<g ref="char:EOLhyphen"/>ties of this <hi>fulneſſe of time.</hi> This day, <hi>Ver<g ref="char:EOLhyphen"/>bumcaro factum,</hi> The Word made fleſh:
+<note place="margin">Ioh. 1.14.</note> That day, <hi>Him that knewe no Sinne,
+<note place="margin">2. Cor. 5.21.</note> He made Sinne;</hi> (that is) made him vndertake to be handled as a <hi>Sinner,</hi> to be <hi>vnder the law,</hi> and to endure what the lawe could lay vpon Him. And ſo now, the thing ſent is <hi>full:</hi> and <hi>fully ſent,</hi> becauſe <hi>made:</hi> and <hi>fully made,</hi> becauſe, <hi>made once</hi> and <hi>twiſe</hi> ouer: fully made <hi>ours,</hi> becauſe fully <hi>vnited</hi> to vs: <hi>Made of a woman</hi> as well as we. <hi>Made vnder the Lawe</hi> as deepe as we, Both <hi>ex muliere,</hi> and <hi>ſub lege.</hi> So of our nature <hi>(of a woman,)</hi> that of our condition alſo <hi>(vnder the lawe:)</hi> So, fully v<g ref="char:EOLhyphen"/>nited to vs in nature, and condition both.</p>
+                     <p n="3">3. And ſo we are come, to the <hi>full meaſure</hi>
+                        <pb n="26" facs="tcp:176668:16"/>of His <hi>ſending.</hi> And, that we are come to the full, ye ſhall plainely ſee, by the <hi>ouerflow<g ref="char:EOLhyphen"/>ing,</hi>
+                        <note place="margin">Verſe 5.</note> by that which we receiue from this <hi>ful<g ref="char:EOLhyphen"/>neſſe,</hi> which is the latter part of the verſe, and is our <hi>fulneſſe,</hi> euen the <hi>fulneſſe,</hi> of all that we can deſire. For, if we come now to aske, For whom, is all this adoe? This <hi>Sending,</hi> This <hi>making,</hi> ouer and ouer againe? It is <hi>for vs.</hi> So is the concluſion, <hi>vt nos,</hi> that <hi>wee</hi> might from this <hi>fulneſse,</hi> receiue the <hi>full</hi> of our wiſh. For in theſe two behinde, <hi>Redemp<g ref="char:EOLhyphen"/>tion,</hi> and <hi>Adoption;</hi> to be <hi>redeemed,</hi> and to be <hi>adopted,</hi> are the <hi>full</hi> of all, we can wiſh our ſelues.</p>
+                     <p>The tranſcendent Diuiſion, of <hi>Good</hi> and <hi>Euill,</hi> is it, that comprehendeth all. And heere it is. Our deſire can extend it ſelfe no further, then to be rid of all <hi>euill,</hi> and to at<g ref="char:EOLhyphen"/>taine all, that <hi>good</hi> is. By theſe two, (being <hi>redeemed,</hi> and being <hi>adopted</hi>) we are made partakers of them both. <hi>To be redeemed from vnder the law,</hi> is to be quit of all <hi>euill. To re<g ref="char:EOLhyphen"/>ceiue the Adoption of children,</hi> is to be ſtated in all that is <hi>Good.</hi> For, all <hi>Euill</hi> is in being <hi>vnder the law,</hi> from whence we are <hi>redeemed;</hi>
+                        <pb n="27" facs="tcp:176668:16"/>and, all <hi>Good,</hi> in being inueſted, in the hea<g ref="char:EOLhyphen"/>uenly Inheritance, whereunto we are <hi>adop<g ref="char:EOLhyphen"/>ted.</hi> Thus ſtood the caſe with vs:
+<note place="margin">Ephe. 3.12.</note> 
+                        <hi>Aliens we were from God His Couenant,</hi> &amp; his king<g ref="char:EOLhyphen"/>dome: More then that, <hi>Priſoners</hi> we were, faſt layed vp <hi>vnder the Lawe.</hi> From this lat<g ref="char:EOLhyphen"/>ter we are <hi>freed:</hi> of the former, we are <hi>Sci<g ref="char:EOLhyphen"/>ſed:</hi> And what would we more?</p>
+                     <p>Onely, this you ſhall obſerue, that in the <hi>Idiom</hi> of the <hi>Scriptures,</hi> it is vſuall; two points being ſet downe, when they are re<g ref="char:EOLhyphen"/>ſumed againe, to beginne with the latter, and ſo ende with the former. So is it here, At the firſt, <hi>made of a woman, made vnder the Law.</hi> At the reſuming, Hee beginnes with the latter, <hi>made vnder the Lawe, That He might redeeme them, that were vnder the Lawe.</hi> And then comes to the former, <hi>made of a woman,</hi> made the Sonne of man, <hi>That we by adoption might be made the Sonnes of God.</hi> But this we are to marke, it is He that is at all the <hi>coſt</hi> and <hi>paine:</hi> and we, that haue the <hi>benefit</hi> by it. At the <hi>redee<g ref="char:EOLhyphen"/>ming</hi> it is, <hi>vt ille:</hi> At the <hi>receiuing</hi> it is, <hi>vt nos.</hi>
+                     </p>
+                     <pb n="28" facs="tcp:176668:17"/>
+                     <p> Briefly of either:
+<note place="margin">That he might re<g ref="char:EOLhyphen"/>deeme them that were vnder the Lawe.</note> And firſt, of our <hi>Redee<g ref="char:EOLhyphen"/>ming. Redeeming</hi> (as the word giueth it) is a ſecond buying, or buying backe of a thing, before <hi>aliened</hi> or <hi>ſold.</hi> Euer, a former <hi>ſale</hi> is preſuppoſed before it.
+<milestone type="tcpmilestone" unit="unspecified" n="6"/> And ſuch a thing there had gone before. A kinde of <hi>alienation,</hi> had formerly beene, whereby we had made away our ſelues, (for a <hi>ſale</hi> I can<g ref="char:EOLhyphen"/>not call it, it was for ſuch a trifle) our nature <hi>aliened</hi> in <hi>Adam,</hi> for the <hi>forbidden fruit;</hi> a matter of no moment. Our <hi>Perſons</hi> like<g ref="char:EOLhyphen"/>wiſe, daily we our ſelues <hi>alien</hi> them, for ſome <hi>trifling pleaſure,</hi> or <hi>profit,</hi> matters not much more worth. And, when wee haue thus paſſed our ſelues away, by this <hi>Selling our ſelues vnder ſinne,</hi>
+                        <note place="margin">Rom. 7.14.</note> the Law ſeizeth on vs, and vnder it wee are <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                        <hi>Cap.</hi> 3.23. euen <hi>lockt vp,</hi> as it were in a Dungeon, <hi>tyed faſt with the cordes of our ſinnes, Prou.</hi> 5.22: the ſentence paſſed on vs, and wee waiting but for execution. What euill is there not, in this eſtate, and on euery ſoule that is in it? Well then, the firſt <hi>vt,</hi> the firſt ende is, <hi>To get vs ridde,</hi> from vnder this e<g ref="char:EOLhyphen"/>ſtate.</p>
+                     <pb n="29" facs="tcp:176668:17"/>
+                     <p> He did it: not by way of <hi>intreaty,</hi> ſtep in and beg our pardon: That would not ſerue; <hi>Sold</hi> we were, and <hi>bought</hi> wee muſt be. A <hi>price</hi> muſt bee laide downe for vs: To get vs from <hi>vnder the Lawe,</hi> it was not a matter of <hi>Interceſsion,</hi> to ſue for it, and haue it. No, He muſt <hi>purchaſe</hi> it, and <hi>pay</hi> for it. It was a matter of <hi>Redemption.</hi>
+                     </p>
+                     <p>And, in <hi>Redemption</hi> or a <hi>Purchaſe,</hi> wee looke to the <hi>Price.</hi> For, if it bee at any eaſie rate, it is ſo much the better. But with an high <hi>price,</hi> He <hi>Purchaſed</hi> vs; it coſt Him <hi>deare</hi> to bring it about. <hi>Non auro, nec argento.</hi>
+                        <note place="margin">1. Pet. 1.18 19.</note> Neither of them would ſerue, at an higher rate it was, euen <hi>pretioſo ſanguine.</hi> His pre<g ref="char:EOLhyphen"/>cious blood, was the <hi>price,</hi> we ſtood him in. Which He payed,
+<note place="margin">Mat. 20.28.</note> when <hi>He gaue his life a ranſome for many.</hi>
+                     </p>
+                     <p>It ſtood thus, betweene <hi>Him</hi> and <hi>vs,</hi> in this point of <hi>Redemption.</hi> Heere are certaine <hi>malefactors, vnder the Lawe,</hi> to ſuf<g ref="char:EOLhyphen"/>fer, to be executed. What ſay you to them? Why, I will become <hi>vnder the Lawe,</hi> ſuffer that they ſhould, take vpon me their exe<g ref="char:EOLhyphen"/>cution, vpon <hi>condition,</hi> they may be quit:
+<pb n="30" facs="tcp:176668:18"/>In effect ſo much, at his <hi>Paſsion</hi> He ſaid, <hi>Si ergo me queritis Io.</hi> 18.6. <hi>If you lay hold on me,</hi> if I muſt diſcharge all, <hi>Sinite hos abire, Let theſe goe their way,</hi> Let the <hi>price</hi> I pay be their <hi>Redemption:</hi> and ſo it was. And, ſo wee come, to be <hi>redeemed from vnder the Lawe.</hi>
+                     </p>
+                     <p>And this is to be marked, that <hi>Them that were vnder the Lawe,</hi> and, <hi>We that are to receiue,</hi> are but one, <hi>one and</hi> the <hi>ſame perſons</hi> both: But being ſo <hi>redeemed,</hi> then we are our ſelues. Till then, the <hi>Apoſtle</hi> ſpeakes of vs, in the <hi>third perſon, Them, that were vnder the Lawe,</hi> as of ſome ſtrangers, as of men of a<g ref="char:EOLhyphen"/>nother world, none of our owne: But now being <hi>redeemed,</hi> the ſtile changeth. Hee ſpeaketh of vs, in the <hi>firſt</hi> perſon <hi>vt nos,</hi> that we: for till now we were not our owne, we were not our ſelues, but now we are: till this, it was the <hi>old yeere</hi> ſtill with vs, but with the <hi>new yeere,</hi> commeth our new eſtate.</p>
+                     <p>Being thus <hi>redeemed,</hi>
+                        <note place="margin">That we might re<g ref="char:EOLhyphen"/>ceiue the Adoption of Children</note> we are got from <hi>vn<g ref="char:EOLhyphen"/>der the Lawe:</hi> and that is much. Till a party come to bee once <hi>vnder it,</hi> and feele the weight of it,
+<milestone type="tcpmilestone" unit="unspecified" n="7"/> hee ſhall neuer vnderſtand
+<pb n="31" facs="tcp:176668:18"/>this aright; but then he ſhall. And if any haue beene <hi>vnder it,</hi> he knowes what it is, and how great a <hi>benefit</hi> to bee got thence. But is this all? No, He leaues vs not heere; but to make the <hi>meaſure</hi> compleat, yea, euen to <hi>flowe ouer,</hi> He giues vs not ouer, when he had rid vs out of this wretched eſtate, till He haue brought vs to an eſtate, as good, as He himſelfe is in. After our <hi>Redemption,</hi> we ſtood, but as <hi>Priſoners enlarged;</hi> that was all: But, ſtill we were as <hi>ſtrangers,</hi> no part, nor portion in God, or his kingdome: nor, no reaſon, we ſhould hope for any. He now goeth one ſtep further, which is the higheſt and furtheſt ſtep of all. For further then it, He cannot goe.</p>
+                     <p>
+                        <hi>That we might receiue the Adoption,</hi> (that is) from the eſtate of <hi>Priſoners condemned,</hi> be tranſlated into the eſtate of <hi>Children A<g ref="char:EOLhyphen"/>dopted.</hi> Of <hi>Adopted:</hi> for, of <hi>naturall,</hi> wee could not: That is His <hi>peculiar</hi> alone, and He therein onely aboue vs, but elſe, fully to the ioynt fruition, of al that He hath, which is fully as much, as we could deſire. And this is our <hi>Fieri</hi> out of His <hi>Factu<g ref="char:cmbAbbrStroke">̄</g> ex muliere.</hi>
+                        <pb n="32" facs="tcp:176668:19"/>We made the <hi>Sonnes of God,</hi> as Hee the <hi>Sonne of man;</hi> We made <hi>partakers</hi> of his <hi>Di<g ref="char:EOLhyphen"/>uine,</hi>
+                        <note place="margin">2. Pet. 1.4.</note> as He of our <hi>humane nature.</hi> To pur<g ref="char:EOLhyphen"/>chaſe our pardon, to free vs from death, and the lawes ſentence, this ſeemed a ſmall thing to Him:
+<note place="margin">2. Sam. 7.19</note> yet this is <hi>Lex hominis.</hi> Mans goodneſſe goeth no farther; &amp; graci<g ref="char:EOLhyphen"/>ous is the <hi>Prince,</hi> that doth but ſo much. For who euer heard of a <hi>condemned</hi> man, <hi>Adop<g ref="char:EOLhyphen"/>ted</hi> afterward; or that thought it not enough and enough, if Hee did but ſcape, with his life? So farre then to exalt his bountie, to that <hi>fulneſſe;</hi> as <hi>pardon,</hi> and <hi>Adopt</hi> both, <hi>Non eſt lex hominis haec.</hi> No ſuch meaſure among men, <hi>Zelus Domini Exercituum, The zeale of the Lord of Hoſts,</hi>
+                        <note place="margin">Eſ. 9.7.</note> was to performe this: <hi>The fulneſſe of the Godhead, dwelt in Him,</hi> that brought this to paſſe.</p>
+                     <p>For (to ſpeake of <hi>adopting:</hi>) We ſee it day<g ref="char:EOLhyphen"/>ly; No father <hi>adopt's,</hi> vnleſſe He be <hi>orbe,</hi> haue no childe; or if He haue one, for ſome deepe diſlike, haue caſt him of. But God had a <hi>Sonne,</hi>
+                        <note place="margin">Heb. 1.3.</note> 
+                        <hi>The brightnes of his Glorie; The true character of his Substance:</hi> and no diſpleaſure there was;
+<note place="margin">Mat. 17.5.</note> No, <hi>In quo complacitum eſt,</hi> In
+<pb n="33" facs="tcp:176668:19"/>whom He was abſolutely well pleaſed: yet, would He by <hi>adoption,</hi> for all that,
+<note place="margin">Heb. 2.10.</note> 
+                        <hi>bring many Sonnes to Glory.</hi> Is not this <hi>full</hi> on his part?</p>
+                     <p>We ſee againe, no <hi>Heire</hi> will endure to heare of <hi>Adoption,</hi> nay, nor diuide his Inhe<g ref="char:EOLhyphen"/>ritance, no not with his <hi>naturall Brethren.</hi> Then, that the <hi>Heire</hi> of all things,
+<note place="margin">Heb. 1.3.</note> ſhould admit <hi>ioynt Heires</hi> to the Kingdome hee was borne to; and that admit them,
+<note place="margin">Rom. 8.17.</note> not out of ſuch, as were <hi>neere</hi> him, but from ſuch as were <hi>ſtrangers,</hi> yea ſuch as had beene <hi>con<g ref="char:EOLhyphen"/>demned</hi> men <hi>vnder the Lawe,</hi> Is not this <hi>full,</hi> on his part? To purchaſe vs, and to purchaſe for vs, both at once? And not to <hi>doe</hi> this for vs alone, but to <hi>aſſure</hi> it to vs: For, as his <hi>Father,</hi> in this verſe, ſends Him: So, in the next verſe, <hi>He</hi> ſends <hi>the Spirit of his Sonne,</hi> to giue vs <hi>ſeiſin</hi> of this our <hi>Adoption:</hi> where<g ref="char:EOLhyphen"/>by wee now call him, the Iewes <hi>Abba,</hi> the Gentiles <hi>Pater,</hi> as <hi>Children</hi> all, and He <hi>our Father,</hi> which, is the priuiledge of the <hi>Adopti<g ref="char:EOLhyphen"/>on,</hi> we heere receiue.</p>
+                     <p>And now, are we come to the <hi>fulnes</hi> in<g ref="char:EOLhyphen"/>deede. For this <hi>Adoption,</hi> is the <hi>fulnes</hi> of our option, We cannot extende; we, our <hi>wiſh:</hi>
+                        <pb n="34" facs="tcp:176668:20"/>or He, his <hi>loue and goodnes</hi> any further. For, what can we aske, or He giue more, ſeing in giuing this, He giueth all He is worth? By this time, it is <hi>full Sea.</hi> All the Banckes ar <hi>fil<g ref="char:EOLhyphen"/>led.</hi> It is now, as <hi>Ezekiels waters,</hi> that hee ſawe <hi>flowe,</hi>
+                        <note place="margin">Ezek. 47.3, 4, 5,</note> 
+                        <hi>from vnder the threſhold of the Temple:</hi> that tooke him to the <hi>ancles</hi> firſt, then to the <hi>knees,</hi> after to the <hi>loynes,</hi> at laſt, ſo <hi>high riſen,</hi> there was no more paſſage.</p>
+                     <p n="1">1. From the <hi>fulnes</hi> of his <hi>Compaſsion,</hi> he <hi>ſent</hi> to releaſe vs: 2. from the <hi>fulnes</hi> of <hi>his loue,</hi> He <hi>ſent his Sonne:</hi> 3. In the <hi>fulnes</hi> of <hi>Humilitie,</hi> He <hi>ſent Him made:</hi> 4. <hi>Made of a Woman,</hi> to make a <hi>full vnion</hi> with our <hi>na<g ref="char:EOLhyphen"/>ture.</hi> 5. <hi>Made vnder the Lawe,</hi> to make the <hi>v<g ref="char:EOLhyphen"/>nion</hi> yet more perfectly <hi>full</hi> with our <hi>ſinfull condition:</hi> 6. That we might obteine a full, deliuerance, from all <hi>Euill,</hi> by being <hi>redee<g ref="char:EOLhyphen"/>med:</hi> 7. and a full eſtate, of all the <hi>ioy</hi> and <hi>Glory</hi> of his heauenly inheritance, by being <hi>adopted.</hi> So, there is <hi>fulnes,</hi> of all handes. And ſo much, for the <hi>fulnes of the Benefit,</hi> we re<g ref="char:EOLhyphen"/>ceiue.</p>
+                     <p>Now, for the <hi>fulnes of the duetie,</hi> we are to performe this day. For, <hi>in the fulnes of time,</hi>
+                        <pb n="35" facs="tcp:176668:20"/>all things are to be <hi>full. Plenitudo temporis, tempus plenitudinis.</hi> And, ſeing God hath ſuf<g ref="char:EOLhyphen"/>fered vs to liue, to ſee the yeare run about, to this <hi>plenitudo temporis:</hi> if it be ſo, on <hi>Gods</hi> part; meete alſo, it be ſo on <hi>Our's:</hi> and that <hi>we,</hi> be not <hi>emptie,</hi> in this <hi>fulnes of time.</hi> It is not fit, if <hi>He</hi> be at the <hi>brincke,</hi> that <hi>we</hi> be at the <hi>bottom.</hi> But, as <hi>we</hi> be willing, to receiue of his: So <hi>we</hi> be like willing, to yeeld Him of <hi>ours</hi> againe; of <hi>our duety</hi> (I meane:) that it, to him, in a meaſure, &amp; proportion be like <hi>full;</hi> as his <hi>Bountie,</hi> hath beene <hi>full</hi> aboue mea<g ref="char:EOLhyphen"/>ſure, toward vs. That ſo <hi>from</hi> vs, and on <hi>our parts,</hi> it may be <hi>plenitudo temporis,</hi> or <hi>tempus plenitudinis,</hi> the <hi>fulnes of time,</hi> or <hi>time of ful<g ref="char:EOLhyphen"/>nes,</hi> chooſe you whether.</p>
+                     <p n="1">1. And, a <hi>time of fulnes</hi> it wilbe, (I knowe) in a ſenſe: of <hi>fulnes of Bread,</hi> of <hi>fulnes of bra<g ref="char:EOLhyphen"/>uerie,</hi> of <hi>fulnes of sport,</hi> and <hi>paſtime:</hi> and this it may be. And it hath beene euer, a <hi>ioyfull time</hi> in apparance, for it ſhould be ſo: <hi>with the ioy</hi> (ſayth Eſay a verſe or two be<g ref="char:EOLhyphen"/>fore, <hi>Puer natus eſt nobis,</hi>
+                        <note place="margin">Eſa. 9.3.</note> vnto vs a Childe is borne) <hi>that men reioyce with, in harueſt.</hi> Not to goe from our <hi>Text</hi> here, with the
+<pb n="36" facs="tcp:176668:21"/>ioy of men that are come out of <hi>priſon,</hi> haue ſcaped the <hi>Lawe;</hi> with the <hi>ioy</hi> of men, that haue got the reuerſion, of a <hi>goodly heri<g ref="char:EOLhyphen"/>tage.</hi> Only, that we forget not the princi<g ref="char:EOLhyphen"/>pal, that this <hi>outward ioy,</hi> eate not vp, eua<g ref="char:EOLhyphen"/>cuate not our <hi>ſpirituall ioy,</hi> proper to the <hi>Feaſt:</hi> that we haue in mind, in the middeſt of our mirth, the cauſe of it, <hi>Christs ſending,</hi> and the benefits that come thereby. And, it ſhall be a good ſigne vnto vs, if we can thus reioyce, if this our ioy can be <hi>full,</hi> if we can make a <hi>ſpirituall</hi> bleſsing,
+<note place="margin">Pſal. 89.15</note> the obiect of our mirth. <hi>Beatus populus, qui ſcit iubilationem.</hi> Bleſſed is the people, that can reioyce on this manner.</p>
+                     <p>And,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> after <hi>our ioy-fulneſſe,</hi> or <hi>fulnes of ioy, our fulnes of thankes,</hi> or <hi>thank-fulnes,</hi> is to en<g ref="char:EOLhyphen"/>ſue: for, with that <hi>fulneſſe,</hi> we are to cele<g ref="char:EOLhyphen"/>brate it likewiſe. Our <hi>minds</hi> firſt &amp; then our <hi>mouthes,</hi> to be <hi>filled</hi> with bleſsing, and praiſe, and thankes to Him that hath made our times, not to fall into thoſe <hi>emptie</hi> ages of the world; but to fall within this <hi>fulnes of time,</hi>
+                        <note place="margin">Luk. 10.24</note> which <hi>ſo many Kings &amp; Prophets deſi<g ref="char:EOLhyphen"/>red to haue liued in,</hi> but fell ſhort of; And li<g ref="char:EOLhyphen"/>ued
+<pb n="37" facs="tcp:176668:21"/>then, when the times were <hi>full</hi> of ſhad<g ref="char:EOLhyphen"/>dowes, and promiſes, &amp; nothing elſe. How inſtantly they longed, to haue held ſuch a <hi>Feaſt,</hi> to haue kept a <hi>Chriſtmaſſe,</hi>
+                        <note place="margin">Pſal. 144.5. Eſ. 64.1.</note> it is eui<g ref="char:EOLhyphen"/>dent, by Dauids <hi>Inclina caelos;</hi> by Eſaies <hi>Vti<g ref="char:EOLhyphen"/>nam diſrumpas caelos, Bow the Heauens, and Breake the Heauens:</hi> How much (I ſay) they longed for it: and therefore, that we make not light account of it.</p>
+                     <p>To render our <hi>thankes</hi> then, and to re<g ref="char:EOLhyphen"/>member to doe it <hi>fully,</hi> To forget none: To <hi>Him</hi> that <hi>was ſent,</hi> &amp; to <hi>Him,</hi> that <hi>Sent; Sent his Sonne,</hi> in this; the <hi>Spirit of his Sonne,</hi> the next verſe.
+<note place="margin">Pſal. 2.12</note> To beginne with <hi>Oſcula<g ref="char:EOLhyphen"/>mini filium,</hi> it is the firſt duetie enioyned vs this day, to <hi>kiſſe the Babe</hi> new borne, that when his <hi>Father</hi>-would <hi>ſend Him,</hi> ſayd,
+<note place="margin">Pſal. 40.7.</note> 
+                        <hi>Ecce venio,</hi> ſo readily: and when he would <hi>make Him,</hi> was content with <hi>Corpus aptaſti mihi,</hi> to haue a body made him, meete for him to ſuffer in: who willingly yeelded to be our <hi>Shilo;</hi> to this <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> heere;
+<note place="margin">Gen. 49.10</note> yea to be not onely <hi>Christ,</hi> but an <hi>Apoſtle</hi> for vs, Heb. 3.1. euen <hi>the Apostle of our profeſsion.</hi>
+                     </p>
+                     <p>And not to <hi>Him</hi> that <hi>was ſent</hi> and <hi>made</hi>
+                        <pb n="38" facs="tcp:176668:22"/>alone: but to the <hi>Father</hi> that <hi>ſent Him,</hi> and to the <hi>Holy Ghost</hi> that <hi>made Him,</hi> (as by whom He was conceiued.) To the <hi>Father,</hi> for his <hi>miſsion;</hi> The <hi>Sonne,</hi> for his <hi>Redemp<g ref="char:EOLhyphen"/>tion;</hi> the <hi>Holy Ghoſt,</hi> for his <hi>Adoption;</hi> For by him it is wrought. He that <hi>made Him the Sonne of man,</hi> doth likewiſe <hi>regenerate vs,</hi> to the ſtate of the <hi>Sonnes of God.</hi> And this for our <hi>thankfulneſſe.</hi>
+                     </p>
+                     <p n="3">3 And, to theſe two, (to make the mea<g ref="char:EOLhyphen"/>ſure <hi>full</hi>) to ioyne, the <hi>fulneſſe of duetie,</hi> euen whatſoeuer <hi>duetifull</hi> minded perſons, may yeeld to a <hi>bountifull minded,</hi> and a <hi>boun<g ref="char:EOLhyphen"/>tifull handed</hi> Benefactor. And with this to begin, to conſecrate this firſt day of this <hi>ful<g ref="char:EOLhyphen"/>neſse of time:</hi> euen with our <hi>ſeruice</hi> to Him at the <hi>full;</hi> which, is then at the <hi>full,</hi> when no <hi>part</hi> is miſsing: when all our <hi>dueties,</hi> of <hi>prea<g ref="char:EOLhyphen"/>ching,</hi> and <hi>praying,</hi> of <hi>Hymnes,</hi> of <hi>offering,</hi> of <hi>Sacrament,</hi> and all, meet together. No <hi>fulnes</hi> there is of our <hi>Liturgie,</hi> or publike ſolemne ſeruice, without the <hi>Sacrament.</hi> Some <hi>part;</hi> yea, the chief <hi>part</hi> is wanting, if that be wan<g ref="char:EOLhyphen"/>ting. But our <hi>thanks</hi> are ſurely not <hi>full,</hi> with<g ref="char:EOLhyphen"/>out the Holy <hi>Euchariſt,</hi> which is by interpre<g ref="char:EOLhyphen"/>tation,
+<pb n="39" facs="tcp:176668:22"/>
+                        <hi>Thankeſgiuing</hi> it ſelfe.
+<note place="margin">Pſal. 116.12.13.</note> 
+                        <hi>Fully</hi> we cannot ſay, <hi>Quid retribuam Domino?</hi> but we muſt an<g ref="char:EOLhyphen"/>ſwere, <hi>Calicem ſalutaris accipiam,</hi> we <hi>will take the cup of ſaluation,</hi> &amp; with it in our hands <hi>giue thanks</hi> to <hi>Him;</hi> render Him our true <hi>Eu<g ref="char:EOLhyphen"/>chariſt,</hi> or real <hi>Thankſgiuing</hi> indeed. In which <hi>cup</hi> is the <hi>blood,</hi> not only of our <hi>redemption</hi> of the <hi>Couenant,</hi> that freeth vs from the <hi>Law,</hi> and maketh the <hi>Deſtroyer paſse ouer vs:</hi>
+                        <note place="margin">Mat. 26.28.</note> but of our <hi>Adoption</hi> of the <hi>new Testament</hi> alſo, which intitles vs, and conueyes vnto vs (<hi>Testament-wiſe,</hi> or by way of <hi>Legacie</hi>) the e<g ref="char:EOLhyphen"/>ſtate we haue in the ioy and bliſſe of his heauenly kingdome, wherto we are <hi>adopted.</hi> We are then made partakers of Him, and with Him of both theſe His benefits. We there are made <hi>to drinke of the Spirit,</hi>
+                        <note place="margin">1. Cor. 12.13. Ephe. 4.30.</note> by which <hi>we are ſealed, to the day of our redemp<g ref="char:EOLhyphen"/>tion, and adoption</hi> both. So that, our freeing from <hi>vnder the lawe,</hi> our inueſtiture into our new <hi>adopted</hi> ſtate, are not fully conſummate without it.</p>
+                     <p>And what? Shall this be all? No, when this is done, there is allowance of 12. <hi>dayes</hi> more, for this <hi>fulneſse of time:</hi> that, we <hi>ſhrinke</hi>
+                        <pb n="40" facs="tcp:176668:23"/>not vp our <hi>duety</hi> then into <hi>this day</hi> alone, but in the <hi>rest</hi> alſo remember, to redeeme ſome <hi>part</hi> of the day, to <hi>adopt</hi> ſome <hi>howre</hi> at the leaſt, to be thinke our ſelues of the <hi>duetie,</hi> the <hi>time</hi> calleth to vs for: that ſo, we haue not <hi>Iobs dies vacuos,</hi> no daye quite <hi>emptie</hi> in this <hi>fulneſse of time.</hi> Hereof aſſuring our ſelues, that what we doe in this <hi>fulneſse of time,</hi> will haue <hi>full</hi> acceptance at His hands. It is the <hi>time of his birth,</hi>
+                        <note place="margin">2. Cor. 6.2.</note> which is euer a <hi>time</hi> as <hi>accepted,</hi> ſo of <hi>accepting,</hi> wherein, what is done, will be <hi>acceptably</hi> taken to the <hi>full: ful<g ref="char:EOLhyphen"/>ly</hi> accepted,
+<note place="margin">Ioh. 1.16.</note> and fully rewarded by Him, of <hi>whoſe fulneſſe we all receiue:</hi> with this condi<g ref="char:EOLhyphen"/>tion, <hi>of grace for grace,</hi> euer one grace for an other.</p>
+                     <p>And ſo, growing <hi>from grace to grace,</hi> finally from this <hi>fulnes,</hi> we ſhal come to be partakers of another yet behinde, to which we aſpire. For all this, is but the <hi>fulneſſe of time:</hi> but that, the <hi>fulneſſe of eternitie,</hi> when time ſhall be runne out, and his glaſſe emptie, <hi>Et tempus non erit amplius;</hi>
+                        <note place="margin">Apo. 10.6.</note> which is, at His next <hi>ſending.</hi> For yet once more ſhall God <hi>ſend</hi> him, and He come againe. At which
+<pb n="41" facs="tcp:176668:23"/>comming, we ſhall then indeed receiue the <hi>fulneſse</hi> of our redemption, not from the <hi>Law</hi> (that we haue alreadie) but from <hi>Cor<g ref="char:EOLhyphen"/>ruption,</hi> to which our bodies are yet ſubiect; and receiue the <hi>full fruition</hi> of the <hi>Inheri<g ref="char:EOLhyphen"/>tance,</hi> wherto we are heere but <hi>adopted.</hi> And then it will be perfect, compleat, abſolute <hi>fulneſse</hi> indeed,
+<note place="margin">Ephe. 1.23.</note> when we ſhall all <hi>be filled</hi> with the <hi>fulneſse of him, that filleth all in all.</hi> For, ſo ſhall all be,
+<note place="margin">1. Cor. 15.28.</note> when nothing ſhall be wanting in any: for <hi>God ſhall be all, in all.</hi> Not, as heere He is, ſomething, and but ſome<g ref="char:EOLhyphen"/>thing in euery one; but then <hi>omnia in omni<g ref="char:EOLhyphen"/>bus.</hi> And then the <hi>meaſure</hi> ſhall be <hi>ſo full,</hi> as it cannot <hi>enter</hi> into vs, we cannot hold it:
+<note place="margin">Mat. 25.21.</note> we muſt <hi>enter</hi> into it; <hi>Intra in gaudium Domini tui.</hi>
+                     </p>
+                     <p>To this we aſpire, and to this in the <hi>ful<g ref="char:EOLhyphen"/>neſse</hi> appointed of euery one of our times, <hi>Almightie God</hi> bring vs, by <hi>Him,</hi> and for <hi>His ſake,</hi> that in this <hi>fulneſſe of time,</hi> was <hi>ſent</hi> to worke it for vs, in his perſon: and worke it in vs, by the operation of his <hi>bleſſed Spirit.</hi> To whom, &amp;c.</p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:176668:24"/>
+                  <pb facs="tcp:176668:24"/>
+                  <pb facs="tcp:176668:25"/>
+                  <pb facs="tcp:176668:25" rendition="simple:additions"/>
+                  <p>A SERMON PREACHED BEFORE <hi>His Maieſtie at White-hall,</hi> on Tueſday the 25. of December laſt, being Chriſtmas day,</p>
+                  <p>
+                     <hi>By the Biſhop of Elie, His</hi> Maieſties Almoner.</p>
+                  <p>ANNO 1610.</p>
+                  <p>¶ Imprinted at London by <hi>Robert Barker,</hi> Printer to the Kings moſt Excellent Maieſtie.</p>
+               </div>
+            </front>
+            <body>
+               <div type="sermon">
+                  <pb facs="tcp:176668:26" rendition="simple:additions"/>
+                  <pb facs="tcp:176668:26"/>
+                  <head>A SERMON PREACHED <hi>before His Maieſtie at</hi> Whitehall, on Chriſtmas day laſt, &amp;c.</head>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>LVKE 2. verſ. 10.11.</hi>
+                        </bibl>
+                        <p>The Angel ſaid vnto them: Be not afraid, for behold, I bring you good tidings, of great ioy, which ſhalbe, to all people,</p>
+                        <p>That, there is borne, vnto you, this day, a Sauiour, which is Christ, the Lord, in the Citie of Dauid.</p>
+                     </q>
+                  </epigraph>
+                  <p>
+                     <seg rend="decorInit">T</seg>Here is <hi>a Word</hi> in this Text, and it is <hi>Hodiè,</hi> by vertue whereof, <hi>this day</hi> may ſeeme to chalenge a ſpecial propertie in <hi>this Text,</hi> and <hi>this Text</hi> in <hi>this day. Chriſt was borne,</hi> is true any day: but, <hi>this day Chriſt was borne,</hi> neuer, but <hi>to
+<pb n="2" facs="tcp:176668:27"/>day onely.</hi> For, of no day in the yeere can it be ſaid, <hi>Hodie natus,</hi> but of <hi>this.</hi> By which word, the Holy Ghoſt may ſeeme to haue marked it out, and made it the peculiar Text, of <hi>the day.</hi>
+                  </p>
+                  <p>Then,
+<note place="margin">Heb. 3.13.</note> it wil not be amiſſe, <hi>Donec cognomi<g ref="char:EOLhyphen"/>natur hodiè,</hi> (as the Apoſtle ſpeaketh) <hi>while it is called, to Day,</hi> to heare it. To morrow the word <hi>Hodiè</hi> will be loſt: This day, and not any day elſe, it is in ſeaſon. Let vs then heare it <hi>this Day,</hi> which, wee can heare no day beſides.</p>
+                  <p>IT is then The firſt report, the very firſt newes, that came (as <hi>this day</hi>) of that, which maketh <hi>this day,</hi> ſo high a Feaſt; <hi>The Birth of</hi> CHRIST.</p>
+                  <p>It came by an Angel,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <note place="margin">Dixit An<g ref="char:EOLhyphen"/>gelus.</note> then: No man was meete to be the meſſenger of it. And looke how it came then, ſo it ſhould come ſtill; and none but an Angel bring it: as, more fit for the tongues of Angels, then of men. Yet ſince, God hath allowed ſinfull men, to be the Reporters of it at the ſecond hand; and the newes, neuer the worſe for that: Good newes is good newes &amp; welcome, by
+<pb n="3" facs="tcp:176668:27"/>any,
+<note place="margin">2. Reg. 7.9.</note> though the perſon be but euen a <hi>foule Leper</hi> that brings it. Yet, that the meanneſſe of the meſſenger offend vs not, euer wee are to remember this; Be the partie who hee will, that brings it, the newes of Chriſtes Birth, is a meſſage for an Angel.</p>
+                  <p>This had bene newes for the beſt Prince in the Earth. That theſe <hi>Illis</hi> heere,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <note place="margin">Dixit illis.</note> theſe parties, were Shepheards, that this Meſſage came to them, needes not ſeeme ſtrange: It found none elſe (at the time) to come to: The Angel was glad to finde any to tell it to; euen to tell it the firſt hee could meete withall: None were then awake, none in caſe to receiue it, but a ſort of poore ſhep<g ref="char:EOLhyphen"/>heards; and to them he told it.</p>
+                  <p>Yet, it fell not out amiſſe, that ſhepheards they were; the newes fitted them well: It well agreed, to tell Shepheards of the yea<g ref="char:EOLhyphen"/>ning of a ſtrange Lambe; ſuch a Lambe, as ſhould <hi>take away the ſinnes of the world;</hi>
+                     <note place="margin">Ioh. 1.29.</note> ſuch a Lambe, as they might <hi>ſend to the Ruler of the world for a preſent.</hi>
+                     <note place="margin">Eſay 16.1.</note> 
+                     <hi>Mitte Agnum Domi<g ref="char:EOLhyphen"/>natori terrae:</hi> I ſays Lambe. Or (if ye will) to tell ſhephe ards of the birth of a Shep<g ref="char:EOLhyphen"/>heard,
+<pb n="4" facs="tcp:176668:28"/>Ezekiels Sheheard:
+<note place="margin">Eze. 34.23.</note> 
+                     <hi>Ecce ſuſcitabo vobis Paſtorem; Behold, I will raiſe you a Shepheard: the</hi>
+                     <note n="a" place="margin">1. Pet. 5.4.</note> 
+                     <hi>chiefe Shepheard, the</hi>
+                     <note n="b" place="margin">Heb. 13.20.</note> 
+                     <hi>great Shepheard,</hi> and <hi>the</hi>
+                     <note n="c" place="margin">Ioh. 10.11</note> 
+                     <hi>good Shepheard that gaue his life for his flocke.</hi> And ſo, it was not vn<g ref="char:EOLhyphen"/>fit newes, for the Perſons to whom it came.</p>
+                  <p>For the Maner:
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> The Angel deliuereth it <hi>Euangelizando,</hi>
+                     <note place="margin">Dixit, Euan<g ref="char:EOLhyphen"/>gelizo.</note> 
+                     <hi>Churchwiſe,</hi> (and that was a ſigne, this place ſhould euer bee, the Ex<g ref="char:EOLhyphen"/>change for this newes:) <hi>Churchwiſe</hi> (I ſay) for hee doeth it by a <hi>Sermon,</hi> heere at this verſe: and then, by a <hi>Hymne</hi> or <hi>Antheme</hi> after, at the 14. verſe. A <hi>Sermon:</hi> the An<g ref="char:EOLhyphen"/>gel himſelfe calles it ſo, <hi>Euangelizo vobis, I come to Euangelize, to preach you a Gospel:</hi> that firſt. And preſently after he had done his <hi>Sermon,</hi> there is the <hi>Hymne, Gloria in ex<g ref="char:EOLhyphen"/>celſis,</hi> taken vp by the Queer of Heauen. An Angel makes the one: A multitude of An<g ref="char:EOLhyphen"/>gels ſing the other. The whole Seruice of this day, the <hi>Sermon,</hi> the <hi>Antheme,</hi> by An<g ref="char:EOLhyphen"/>gels all.</p>
+                  <p>Now the Ende of both <hi>Sermon</hi> and <hi>An<g ref="char:EOLhyphen"/>theme,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <note place="margin">Euangelizo gaudium magnum.</note> and <hi>of the Angels,</hi> in publiſhing it, and <hi>of the ſhepheards,</hi> and vs, in hearing it, is
+<pb n="5" facs="tcp:176668:28"/>
+                     <hi>gaudium, Ioy;</hi> for the Benefit, and Honour; <hi>gaudium magnum, Great ioy,</hi> for the great Be<g ref="char:EOLhyphen"/>nefit, and great Honour, vouchſafed our nature, and vs, this day. <hi>Ioy,</hi> is in the <hi>Text,</hi> and if <hi>ioy</hi> be in the <hi>Time,</hi> it is no harme; We keepe the <hi>Text,</hi> if we hold the <hi>Time</hi> with ioy, For ſo the Angel doeth warrant vs to hold it.</p>
+                  <p>Of this Angelicall,
+<note place="margin">The diui<g ref="char:EOLhyphen"/>ſion.</note> or Euangelicall meſ<g ref="char:EOLhyphen"/>ſage, or (as not I, but the Angell calleth it) <hi>Sermon;</hi> theſe two Verſes I haue read, are a part. Whereof, the former, is but an <hi>Ecce,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> exciting them to heare it, by magnifying the meſſage, as well worth their hearing. <hi>Be not afraid, for behold, I bring you good Ti<g ref="char:EOLhyphen"/>dings, of great Ioy, which ſhall be, to all people.</hi> The latter, is <hi>the very meſſage</hi> it ſelfe, That,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                     <hi>there is borne, vnto you, this day, a Sauiour, which is Chriſt, the Lord, in the City of Dauid.</hi>
+                  </p>
+                  <p>In the former, are theſe points: 1.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                     <hi>Feare not,</hi> (it is no <hi>ill newes,</hi> I bring you) 2. Nay, it is <hi>Good newes.</hi> 3. Good, for it is <hi>newes of Ioy.</hi> 4. Ioy, and that no ordinary, but <hi>great Ioy.</hi> 5. Not to ſome few, but <hi>to the whole people.</hi> 6. And not <hi>toti populo</hi> to
+<pb n="6" facs="tcp:176668:29"/>all one people, but <hi>omni populo, to all people</hi> whatſoeuer. 7. And them, not for the preſent, but <hi>Quod erit omni populo,</hi> that is, and ſo ſhall bee, to all, as long as there ſhall bee any people, vpon earth. And, by vertue of this <hi>[Quod erit,]</hi> to vs, here, this day. <hi>Ecce,</hi> Behold, ſuch is the newes I bring.</p>
+                  <p>In the latter,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <note place="margin">The meſ<g ref="char:EOLhyphen"/>ſage it ſelfe.</note> 
+                     <hi>the meſſage</hi> it ſelfe. The ſumme whereof is, <hi>the Birth of a Childe, A Childe is borne.</hi> Three things are propoſed of Him.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. This <hi>Child</hi> is <hi>a Sauiour.</hi> 2. <hi>A Saui<g ref="char:EOLhyphen"/>our which is Chriſt.</hi>
+                     <note place="margin">The names.</note> 3. <hi>Chriſt the Lord Chri<g ref="char:EOLhyphen"/>ſtus Dominus.</hi> For euery <hi>Sauior</hi> is not <hi>Chriſt,</hi> nor euery <hi>Chriſt, Chriſtus Dominus,</hi> Chriſt the Lord, or the Lord Chriſt. He, is all three.</p>
+                  <p>Then haue wee beſides,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <note place="margin">The Cir<g ref="char:EOLhyphen"/>cumſtances.</note> three circum<g ref="char:EOLhyphen"/>ſtances, of the <hi>Perſons, Time,</hi> and <hi>Place.</hi> 1.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <note place="margin">The Per<g ref="char:EOLhyphen"/>ſons.</note> 
+                     <hi>The Perſons</hi> for whom all this is: twice repeated; <hi>Euangelizo vobis</hi> in the firſt verſe, <hi>Natus vobis</hi> in the ſecond. But this, I make ſome doubt of, whether it be a <hi>Cir<g ref="char:EOLhyphen"/>cumſtance</hi> or no; I rather hold it a principall part of the <hi>Subſtance,</hi> as, the very word of conueyance, whereby it paſſeth to vs. And
+<pb n="7" facs="tcp:176668:29"/>ſure, there is no Ioy either in <hi>Euangelizo,</hi> the <hi>Meſſage:</hi> or <hi>Natus,</hi> the <hi>Birth,</hi> without it, without <hi>Vobis.</hi> But, if the <hi>Meſſage,</hi> and the <hi>Birth</hi> it ſelfe both, be <hi>ours;</hi> then it is <hi>gau<g ref="char:EOLhyphen"/>dium magnum</hi> indeed. Specially, if we adde 2. the <hi>Time</hi> when, not many dayes hence,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <note place="margin">The Time.</note> but euen <hi>this very day.</hi> And 3.
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> the <hi>Place</hi> where:
+<note place="margin">The Place.</note> that it is in no remote Region farre hence, but <hi>in the citie of Dauid,</hi> euen here hard by.</p>
+                  <p>And then laſtly in a word;
+<milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <note place="margin">Our duety reciprocall.</note> what our parts are to performe, to theſe two partes, this dayes <hi>Meſſage,</hi> and this dayes <hi>Birth</hi> of our <hi>Sauiour, Chriſt, the Lord.</hi>
+                  </p>
+                  <div type="part">
+                     <head>Be not afraid.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>Ere is a ſtop,
+<note place="margin">They were afraid.</note> that the <hi>Meſſage</hi> can<g ref="char:EOLhyphen"/>not proceede: For the ſight of the <hi>Me<gap reason="illegible" resp="#UOM" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>nger,</hi> hath almoſt marred the hearing of the <hi>Meſſage.</hi> The parties, to whom it comes, be in ſuch <hi>feare,</hi> as they be not in caſe to receiue it. <hi>They were afraid,</hi> and that <hi>ſore afraid</hi> (as is ſaid in the verſe
+<pb n="8" facs="tcp:176668:30"/>before) at the ſight of the Angel, that came with the newes.</p>
+                     <p>And,
+<note place="margin">So were o<g ref="char:EOLhyphen"/>thers.</note> this was not the caſe of theſe poore men onely; others, and other maner of peo<g ref="char:EOLhyphen"/>ple were ſo, as well as they. This Goſpel of S. <hi>Luke</hi> is ſcarſe begunne; wee are yet but a little way in the ſecond Chapter; and wee haue alreadie, three <hi>Noli timere's</hi> in it: and all, as heere, at the comming of an Angel. <hi>Feare not Zacharie,</hi>
+                        <milestone type="tcpmilestone" unit="unspecified" n="1"/> Chap. 1.13. So, hee was <hi>afraid.</hi>
+                        <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                        <hi>Feare not Mary,</hi> Chap. 1.30. So, ſhe was <hi>afraid.</hi>
+                        <milestone type="tcpmilestone" unit="unspecified" n="3"/> And now, <hi>Feare not theſe</hi> here. That it ſeemes to be generall, to <hi>feare,</hi> at an Angels appearing.</p>
+                     <p>What was it?
+<note place="margin">Of what not.</note> It was not the <hi>feare</hi> of an euill Conſcience: They were about no harme. <hi>Zacharie</hi> was at Church at his <hi>of<g ref="char:EOLhyphen"/>fice:</hi> The bleſſed Virgine (I doubt not) bleſſedly employed: Theſe heere, doing their duety; <hi>watching ouer their flockes by night:</hi>
+                        <note place="margin">Of what.</note> yet <hi>feared</hi> all. Wh<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> ſhould the matter be? It is a plaine ſigne, our nature is fallen from her originall: Heauen, and wee, are not in the termes wee ſhould be: not the beſt of vs all.</p>
+                     <pb n="9" facs="tcp:176668:30"/>
+                     <p> 
+                        <hi>Angels</hi> are the Meſſengers of Heauen:
+<note place="margin">Why of the Angel.</note> Meſſengers euer come with tidings; but whether good or bad, we cannot tell. Here comes an <hi>Angel</hi> with newes from Heauen: what newes he brings, wee know not, and therefore we <hi>feare,</hi> becauſe wee know not. Which ſhewes, all is not well betweene Heauen and vs; that vpon euery comming of an <hi>Angel,</hi> we promiſe our ſelues no bet<g ref="char:EOLhyphen"/>ter newes from thence; but ſtill <hi>are afraid</hi> of the meſſages and meſſengers that come from that place.</p>
+                     <p>That the meſſage then may proceed,
+<note place="margin">Be not a<g ref="char:EOLhyphen"/>fraid.</note> this <hi>feare</hi> muſt be remoued. In a troubled water, no face will well be ſeene: nor by a troubled minde, no meſſage receiued, till it be ſetled. To ſettle them then for it; no other way, no other word to begin with, but <hi>Nolite time<g ref="char:EOLhyphen"/>re, feare not,</hi> and that is euer the Angels be<g ref="char:EOLhyphen"/>ginning. Such is our infirmity; euer he muſt begin with theſe two wordes, <hi>Noli timere, feare not,</hi> and ſo he doth, ſeuen times in this Goſpel.</p>
+                     <p>But feare will not be caſt out with a cou<g ref="char:EOLhyphen"/>ple of words,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                        <note place="margin">For no ill tidings.</note> till they ſee ſome reaſon to
+<pb n="10" facs="tcp:176668:31"/>quiet them. And no better reaſon, then to ſhewe, they haue no reaſon to <hi>feare:</hi> For feare is the expectation of euil, &amp; there is no euill toward them: and ſo they haue no rea<g ref="char:EOLhyphen"/>ſon to <hi>feare;</hi>
+                        <note place="margin">Pſal. 53.5.</note> 
+                        <hi>quod trepidauerunt timore vbi non enit timor,</hi> As if he ſhould ſay; Angels haue come with <hi>weeping</hi> newes, as <hi>Iud.</hi> 2.5. If I were ſuch an one, if I came with ſad ti<g ref="char:EOLhyphen"/>dings, ye had reaſon, ye might <hi>feare.</hi> But now, your <hi>terrour</hi> groweth out of errour. You are miſtaken in me, I am no ſuch An<g ref="char:EOLhyphen"/>gel; I am <hi>Angelus Euangelizans,</hi> an Angel with a Goſpel, one that comes with no <hi>bad newes. Feare not</hi> then. There is no euill to<g ref="char:EOLhyphen"/>ward.</p>
+                     <p>No euill:
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> and that were enough for <hi>feare not.</hi>
+                        <note place="margin">But good tidings.</note> But here is a further matter, not onely <hi>priuatiuê, I bring no ill,</hi> but <hi>poſitiuè, I bring you good newes.</hi> And <hi>good newes</hi> is <hi>Nolite ti<g ref="char:EOLhyphen"/>mere,</hi> &amp; ſomewhat beſides (that is) <hi>Feare not,</hi> but, <hi>Be of good cheere.</hi> They be two degrees plainely, though one be inferred of the o<g ref="char:EOLhyphen"/>ther. <hi>Feare</hi> no ill, there is none <hi>to feare;</hi> there is no ill, nay there is <hi>good</hi> towards. For <hi>good newes</hi> is good; in that, it repreſents the good
+<pb n="11" facs="tcp:176668:31"/>it ſelfe to vs, before it come. It is but words:
+<note place="margin">Gen. 45.17</note> true. But ſuch words made <hi>Iacob reuiue a<g ref="char:EOLhyphen"/>gaine,</hi> when he was more then halfe dead, euen <hi>the good newes of Ioſephs welfare.</hi>
+                        <note place="margin">Pſal. 51.8.</note> 
+                        <hi>If I might but heare good tidings</hi> (ſaith <hi>Dauid when his bones were broken) it would make me well againe:</hi> That, <hi>Salomon</hi> ſaid well,
+<note place="margin">Pro. 13.17.</note> 
+                        <hi>A good meſſenger is a good medicine.</hi>
+                     </p>
+                     <p>Specially this here, which is ſo <hi>good,</hi> as it carieth away the name from the reſt, to bee called <hi>the Gospel,</hi> or, <hi>the glad tidings,</hi> as if none <hi>ſo glad,</hi> nay none <hi>glad at all</hi> without it: It is (ſaith the Apoſtle) <hi>odor ſuauitatis,</hi>
+                        <note place="margin">2. Cor. 2.15</note> a com<g ref="char:EOLhyphen"/>fortable ſweete ſauour. It is (ſaith the wiſe man) <hi>dulcedo animae &amp; ſanitas oſsium,</hi>
+                        <note place="margin">Pro. 16.24.</note> the ſweetneſſe of the ſoule, the very health of the bones.
+<note place="margin">Eſa. 52.7.</note> It is ſuch (ſaith the Prophet) <hi>as the lips are pretious, and the feet beautifull, of them that bring it,</hi> that <hi>a Sauiour is borne,</hi> as by whom, <hi>things in heauen and things in earth,</hi>
+                        <note place="margin">Col. 1.20.</note> men and Angels (which were in <hi>feare</hi> one of another) <hi>are ſet at peace,</hi> and loue:
+<note place="margin">1 Ioh. 14.18.</note> and <hi>Loue caſteth out feare,</hi> giueth the true <hi>Noli timere.</hi>
+                     </p>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="3"/> Good newes <hi>of ioy:</hi> For, of <hi>good newes,</hi>
+                        <note place="margin">Tidings of ioy.</note>
+                        <pb n="12" facs="tcp:176668:32"/>there are more ſorts then one. <hi>Good newes</hi> it had beene, if it had beene but, <hi>Euangelizo vobis spem.</hi> Newes <hi>of good hope:</hi> that, had bene enough, for <hi>nolite timere.</hi> This is more, it is <hi>of ioy.</hi>
+                        <note place="margin">Rom. 12.12 Ioh. 16.24. gal. 4.4.</note> I wot well, there is a <hi>Ioy</hi> in hope, <hi>ſpe gaudentes,</hi> ſaith the Apoſtle: But that <hi>ioy</hi> is not <hi>full, till the fulneſſe of time come.</hi> Nor it is not perfect, for it is allayed ſomewhat, with an vnpleaſing mixture, which is <hi>ſpes dif<g ref="char:EOLhyphen"/>fertur,</hi>
+                        <note place="margin">Pro. 13.12.</note> and that (as the wiſe man ſaith) <hi>affli<g ref="char:EOLhyphen"/>git animam. Hope deferred afflicteth the ſoule. Gaudium ſpei</hi> is nothing to <hi>gaudium rei:</hi> the hope <hi>de futuro,</hi> of a thing to come hereafter, nothing to the actuall fruition, of a thing preſent.</p>
+                     <p>And indeed, till this daies newes, it was euer <hi>Euangelium spei:</hi> euer, in the future tenſe, before. Euen the very laſt before this, to the Bleſſed Virgin <hi>Ecce concipies,</hi>
+                        <note place="margin">Luke 1.31.</note> 
+                        <hi>Thou ſhalt conceiue, Shalt.</hi> So it was yet to come. This, the firſt in the preſent tenſe, Not, <hi>is to be borne, is to be ſent, is to come,</hi> but, <hi>Natus eſt, Miſsus eſt, Venit, is borne, is ſent, is come. Ho<g ref="char:EOLhyphen"/>die,</hi> euen to day, takes no time. <hi>In the Citie of Dauid,</hi> not farre hence, but euen hard by.
+<pb n="13" facs="tcp:176668:32"/>This is <hi>Euangelizo gaudium:</hi> This is ioy in<g ref="char:EOLhyphen"/>deede.</p>
+                     <p>But euen in <hi>Ioy,</hi> there be diuers degrees:
+<milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                        <note place="margin">Of great ioy.</note> All are not of one ſize: Some there are leſ<g ref="char:EOLhyphen"/>ſer; ſome, (as this heere) <hi>gaudium magnum.</hi> The fire is, as the fuell is; and the <hi>Ioy</hi> is, as the <hi>matter</hi> is. There is not like ioy to a ſhep<g ref="char:EOLhyphen"/>heard, when his Ewe brings him a lambe, as when his wife brings him a ſonne; (yet that of a lambe, is a <hi>Ioy,</hi> ſuch as it is:) But then if that ſonne ſhould prooue to be <hi>Princeps Paſtorum,</hi> the <hi>chiefe Shepheard in all the land,</hi> that were ſomewhat more: But then, if he ſhould prooue to bee a <hi>Cyrus</hi> or a <hi>Dauid, a Prince,</hi> then certeinly it were another ma<g ref="char:EOLhyphen"/>ner Ioy, <hi>gaudium magnum</hi> indeede. As the <hi>matter</hi> is, ſo is the <hi>Ioy.</hi> If <hi>great</hi> the Benefite, <hi>great</hi> the Perſon, then <hi>great</hi> the <hi>Ioy.</hi> And heere the <hi>Benefite</hi> is <hi>great,</hi> none <hi>greater,</hi> as much as the ſauing of vs all, as much as all our liues and ſoules are woorth; therefore <hi>great.</hi> And the <hi>Perſon great,</hi> none ſo great, (it is the LORD himſelfe) therefore <hi>primae magnitudinis,</hi> great euen as He is. Indeed ſo great it is, that the Prophet bids vs plain<g ref="char:EOLhyphen"/>ly,
+<pb n="14" facs="tcp:176668:33"/>
+                        <hi>remember no more former things, nor re<g ref="char:EOLhyphen"/>gard matters of olde:</hi>
+                        <note place="margin">Eſai. 45.18.</note> This paſſeth them all, the ioy of it puts them all downe: ſo that none of them ſhall once be mentioned with it. Therefore well ſaid the Angel, <hi>Euange<g ref="char:EOLhyphen"/>lizo gaudium magnum.</hi>
+                     </p>
+                     <p>And <hi>great,</hi>
+                        <milestone type="tcpmilestone" unit="unspecified" n="5"/> it may be <hi>intenſiuè,</hi> in the par<g ref="char:EOLhyphen"/>ties themſelues:
+<note place="margin">Ioy to the people.</note> yet not great <hi>extenſiuè,</hi> nor extend it ſelfe to many, not be <hi>gaudium ma<g ref="char:EOLhyphen"/>gnum populo.</hi> Yes, euen that way alſo it is <hi>great;</hi> it is <hi>publike ioy,</hi> it is <hi>ioy to the people.</hi> And, well fare that <hi>Ioy</hi> where it is merrie with all. It is added purpoſely, this, that they might not miſtake, when He ſayd, <hi>E<g ref="char:EOLhyphen"/>uangelizo vobis,</hi> hee brought <hi>them</hi> good newes; That though hee brought it <hi>them,</hi> yet not <hi>them</hi> onely, it was not appropriate to <hi>them,</hi> it was common to <hi>others: They</hi> had their partes in it, but ſo ſhould <hi>others</hi> haue no leſſe then <hi>they.</hi> And euery good Shepheard, will like it the better for that, will be <hi>pro grege,</hi> and ſtill preferre the ioy of the whole flocke.</p>
+                     <p>In other ioyes, it fall's out as Eſay tell's, <hi>Multiply the nation,</hi>
+                        <note place="margin">Eſay 9.3.</note> 
+                        <hi>and ye ſhall not encreaſe
+<pb n="15" facs="tcp:176668:33"/>their ioy:</hi> for, That which one winnes, ano<g ref="char:EOLhyphen"/>ther looſes: But, <hi>this Ioy,</hi> the <hi>Ioy</hi> of <hi>Puer na<g ref="char:EOLhyphen"/>tus est nobis,</hi> in it, <hi>they ſhall all reioyce before thee as men make merry in harueſt, and be ioy<g ref="char:EOLhyphen"/>full as men that diuide the ſpoile. In Harueſt,</hi> And a good Harueſt all the countrey is the better for. <hi>At a ſpoile,</hi> wherein euery one hath his ſhare. That is <hi>gaudium populi,</hi> And ſuch is this. Well figured in the place of his Birth; an <hi>Inne,</hi> which is <hi>domus populi,</hi> open to all paſſengers that will take it vp; <hi>Iuris publici,</hi> wherein euery one hath right. Yea, and the moſt common part of the <hi>Inne.</hi> For, though they ſort themſelues, and haue euery one their ſeuerall Chambers: in the <hi>Stable</hi> all haue intereſt, that is common.
+<note place="margin">Luke 2.7.</note> And as the place <hi>publike,</hi> ſo is the <hi>Benefite,</hi> and ſo is the <hi>Ioy publike</hi> of his Birth: Chriſt<g ref="char:EOLhyphen"/>mas ioy right, All fare the better for this day. <hi>Salus populi</hi> is the beſt, and ſo is <hi>gaudium populi</hi> too, and euery good mind will like it ſo much the better, that <hi>All the people</hi> haue their part in it.</p>
+                     <p>And this were much, <hi>toti populo,</hi>
+                        <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                        <note place="margin">Ioy to all people.</note> to a whole people, if it were but one: But it is
+<pb n="16" facs="tcp:176668:34"/>
+                        <hi>omni populo</hi> (ſay <hi>Theophylact</hi> and <hi>Beda</hi>) that is, <hi>to All people,</hi> which is a larger extent by farre. And if ye ſpeake of <hi>great ioy,</hi> this is <hi>great</hi> indeed, for it is <hi>vniuerſall,</hi> it is as <hi>great</hi> as the world is <hi>great:</hi> when not the Iewe onely but the Gentile, nor the Gentile but the Iewe, not one people but <hi>All,</hi> keepe a feaſt. And at this word, <hi>omni populo, nec vox hominem ſonat,</hi> It is not man that ſpeaketh now, whoſe goodneſſe commonly, when it is at the greateſt, extendeth no further, but to one Nation: But with God, it is neuer <hi>great,</hi> till it come to <hi>omni populo.</hi>
+                        <note place="margin">Eſai 49.6.</note> 
+                        <hi>It is but a ſmall thing</hi> (ſayth Hee by Eſay) <hi>to raiſe the tribes of Iacob, or to reſtore the decayes of Iſrael: I will giue thee a Light to the Gentiles, and a Sal<g ref="char:EOLhyphen"/>uation to the end of the world.</hi>
+                     </p>
+                     <p>As wee ſayd of the <hi>Inne,</hi> euen now, the <hi>place</hi> of his Birth: So ſay we here, of the <hi>time</hi> of it:
+<note place="margin">Luke 1.1.</note> It is well ſet downe by <hi>S. Luke,</hi> to haue been at the Deſcription of the whole world, for that was a meete time for the Sauiour of the whole world to be borne: <hi>The dewe of whoſe Birth is of the wombe of the morning,</hi>
+                        <note place="margin">Pſal. 110.3.</note> (the Pſalmiſt in paſsion of ioy miſplacing his words,) the meaning is, <hi>His Birth from
+<pb n="17" facs="tcp:176668:34"/>the wombe, is as the morning dew,</hi> which wa<g ref="char:EOLhyphen"/>tereth and refreſheth the face of the <hi>whole</hi> earth: Not <hi>Gedeons fleece</hi> alone,
+<note place="margin">Iudg. 6.37.</note> but the <hi>whole earth;</hi> Not one part, not the Iewes onely: No <hi>partition</hi> now, but
+<note n="a" place="margin">Epheſ. 2.14.</note> 
+                        <hi>vtraque v<g ref="char:EOLhyphen"/>num</hi> one of two: nay, one of <hi>all:</hi>
+                        <note n="b" place="margin">1.10.</note> 
+                        <hi>all recapi<g ref="char:EOLhyphen"/>tulate in</hi> himſelfe, and from him as a Cen<g ref="char:EOLhyphen"/>ter, lines of ioy drawen to <hi>all,</hi> and euery part of the Circle.</p>
+                     <p>And we may not paſſe by <hi>Quod erit,</hi>
+                        <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+                        <note place="margin">To all peo<g ref="char:EOLhyphen"/>ple that ſhalbe.</note> which ſhalbe; which not onely <hi>is,</hi> but <hi>ſhalbe.</hi> For by this word, We hold; It is our beſt tenure. Not onely to <hi>All</hi> that then were, (then had we bene out) but that were, or euer ſhould be, to the worlds end. <hi>Omni populo, all people,</hi> is the latitude or extent: <hi>Quod erit, that ſhall be,</hi> is the longitude or continuance of the ioy; <hi>Quod erit,</hi> that it <hi>ſhalbe</hi> a feaſt of ioy, ſo long as any people ſhall be, to hold a feaſt on the face of the earth. In a word, That ſame <hi>Euangelium aeternum,</hi> that <hi>S.</hi>
+                        <note place="margin">Apoc. 14.6.</note> 
+                        <hi>Iohn</hi> ſaw <hi>in the Angels hand,</hi> we now, heare from the An<g ref="char:EOLhyphen"/>gels mouth, <hi>to be preached to euery nation, kin<g ref="char:EOLhyphen"/>dred, tongue and people,</hi> that <hi>be,</hi> or <hi>ſhalbe,</hi> while the world endureth.</p>
+                     <pb n="18" facs="tcp:176668:35"/>
+                     <p> So,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> if we reade <hi>Quod erit,</hi> with <hi>omni populo.</hi> But ſome reade <hi>gaudium</hi> with <hi>quod erit,</hi>
+                        <note place="margin">Ioy that ſhall be.</note> 
+                        <hi>gau<g ref="char:EOLhyphen"/>dium quod erit,</hi> and make a note of that, The ioy, <hi>quod erit,</hi> that <hi>is</hi> and <hi>ſhalbe.</hi> For com<g ref="char:EOLhyphen"/>monly, all our earthly ioy, is <hi>gaudium quod est, &amp; non erit,</hi> that <hi>is,</hi> for the preſent, but continueth not; <hi>is,</hi> but <hi>ſhall not bee, like the blaze of a bruſh-faggot,</hi>
+                        <note place="margin">Eccle. 7.8.</note> all of a flame and out againe ſuddenly, in a moment. <hi>Gaudium quod erit,</hi> the ioy that <hi>ſo is,</hi> as it <hi>ſhalbe</hi> ſtill, is grounded vpon the ioy of this Day, <hi>Christ</hi> and his Birth. Without which, our ioy, is as the ioy of men in priſon, merrie for a while, but within a while ſentence of death to paſſe vpon them.
+<note place="margin">Prou. 14.13.</note> Without which, <hi>extrema gaudij luctus occupat,</hi> the end of all our mirth, will bee but mourning. All ioy elſe <hi>is,</hi> but <hi>ſhall not bee</hi> within a while: At leaſtwiſe <hi>erit, quando non erit.</hi>
+                        <note place="margin">Ioh. 16.22.</note> A time ſhalbe, when it ſhall not be; <hi>Sed gaudium meam, nemo tollet a vo<g ref="char:EOLhyphen"/>bis;</hi> But <hi>my</hi> ioy, <hi>mine,</hi> grounded on me, no<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e ſhall euer take from you; not ſickneſſe, not death it ſelfe. Others it ſhall, this it ſhal not; but, now yee ſhall this Day, and euermore ye ſhall reioyce in the holy comfort of it.</p>
+                     <pb n="19" facs="tcp:176668:35"/>
+                     <p> And this is the magnifying of the meſ<g ref="char:EOLhyphen"/>ſage. 1. No euil newes, <hi>Feare not,</hi> 2. Nay <hi>good,</hi> Be of good cheere. 3. <hi>Good newes of ioy.</hi> 4. <hi>Of great ioy,</hi> 5. <hi>Publique</hi> ioy, <hi>toti po<g ref="char:EOLhyphen"/>pulo.</hi> 6. <hi>Vniuerſall</hi> ioy <hi>omni populo.</hi> 7. Ioy to all, <hi>that are</hi> or <hi>ſhall be;</hi> And againe ioy, which now <hi>is,</hi> and <hi>ſhalbe</hi> ſo for euer.</p>
+                     <p>Now, vpon all theſe hee ſetteth an <hi>Ecce,</hi> and well he may; And, that is neuer ſet by the Holy Ghoſt, but <hi>ſuper res magnae entita<g ref="char:EOLhyphen"/>tis,</hi> vpon matters of great moment. But vpon this Hill, vpon the top of it, that hath ſo many aſcent's, a <hi>Beacon</hi> would doe well. For looke how many <hi>Ecce's</hi> in the Scrip<g ref="char:EOLhyphen"/>ture, ſo many <hi>Beacons;</hi> And betweene them, as betweene theſe, ye ſhall obſerue a good correſpondence ſtill. This <hi>Ecce</hi> here to the laſt
+<note n="a" place="margin">Cap. 1.31.</note> 
+                        <hi>Ecce concipies</hi> of the Bleſſed Virgine, That to Eſay's
+<note n="b" place="margin">Eſai 7.14</note> 
+                        <hi>Ecce concipiet Virgo,</hi> That to Dauid's
+<note n="c" place="margin">Pſal. 132.11.</note> 
+                        <hi>Ecce de fructu ventris tui,</hi> That to Abraham's
+<note n="d" place="margin">Gene. 22.18.</note> 
+                        <hi>Ecce in ſemine tuo;</hi> and ſo vp, till ye come to
+<note n="e" place="margin">3.15.</note> 
+                        <hi>Semen mulieris:</hi> There they firſt begin, and take light one from an other, till they come to this <hi>Ecce natus eſt bodiè,</hi> the <hi>Ecce</hi> of all <hi>Ecce's</hi> the laſt and
+<pb n="20" facs="tcp:176668:36"/>higheſt of them all. And as a Beacon ſer<g ref="char:EOLhyphen"/>ueth to call and ſtirre vp men to haue re<g ref="char:EOLhyphen"/>gard: ſo is this here to excite them (and in them, vs all) with good attention to heare, and to heed theſe ſo great <hi>good tidings.</hi> And indeed, who is not excited with it? whoſe eye is not turned to behold this <hi>Ecce?</hi> whoſe eare ſtandeth not attent, to heare this <hi>Euangelizo?</hi>
+                        <note place="margin">Chap. 1.29.</note> whoſe <hi>heart</hi> doeth not <hi>muſe, what maner of meſſage this ſhould be?</hi>
+                     </p>
+                     <p>THis it is then,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                        <hi>Quòd natus eſt.</hi> The birth of a Childe:
+<note place="margin">That there is borne.</note> 
+                        <hi>that there is one borne this Day,</hi> the cauſe of all this ioy.</p>
+                     <p>There is <hi>ioy</hi> at euery birth. <hi>Sorrow in the trauaile</hi> (ſaith our Sauiour) <hi>but after the de<g ref="char:EOLhyphen"/>liuery the anguiſh is no more remembred, for ioy that a man is borne into the world.</hi>
+                     </p>
+                     <p>But the <hi>greater</hi> hee is that is borne, and the more <hi>beneficial</hi> his birth, the greater adoe is made. And among men, becauſe there are none <hi>greater</hi> then <hi>Princes,</hi> and great things are looked for at their handes,
+<note place="margin">Gene. 40.20. Mar. 6.21.</note> their <hi>birth's</hi> are euer vſed to bee kept with great triumph. <hi>Pharaos</hi> in the Old, <hi>Herods</hi> in
+<pb n="21" facs="tcp:176668:36"/>the New, both their <hi>Natus eſt's,</hi> dayes of feaſting.</p>
+                     <p>Now of him that is borne here, it may truely be ſaid, <hi>Ecce maior hîc.</hi>
+                        <note place="margin">Mat. 12.24.</note> 
+                        <hi>Beholde a grea<g ref="char:EOLhyphen"/>ter is borne heere.</hi> One whoſe birth is good newes, euen from the pooreſt <hi>Shepheard,</hi> to the richeſt <hi>Prince</hi> vpon earth.</p>
+                     <p>Who is it? Three things are ſaide of this childe by the Angel. 1. <hi>Hee is a Sauiour.</hi> 2. <hi>Which is Chriſt.</hi> 3. <hi>Christ the Lord.</hi> Three of his Titles; well and orderly infer<g ref="char:EOLhyphen"/>red one of another by good conſequence. We cannot miſſe one of them, they be ne<g ref="char:EOLhyphen"/>ceſſary all. Our method on earth is to begin with <hi>great:</hi> In heauen they begin with the <hi>good</hi> firſt.</p>
+                     <p>Firſt then a <hi>Sauiour,</hi> that is his name: <hi>Ieſus,</hi>
+                        <note place="margin">A Sauiour</note> 
+                        <hi>Soter;</hi> and in that name his benefit, <hi>Salus,</hi> Sa<g ref="char:EOLhyphen"/>uing health or <hi>Saluation.</hi> Such a name as the great Oratour himſelfe ſaith of it, <hi>Soter,</hi>
+                        <note place="margin">In Verr. 4.</note> 
+                        <hi>Hoc quantum est? Ita magnum eſt, vt latino vno verbo exprimi non poſsit.</hi> This name <hi>Sauiour</hi> is ſo great, as no one word can expreſſe the force of it.</p>
+                     <p>But we are not ſo much to regard the <hi>Ecce,</hi>
+                        <pb n="22" facs="tcp:176668:37"/>how <hi>great</hi> it is, as <hi>Gaudium,</hi> what <hi>ioy</hi> is in it; that is the point we are to ſpeake to. And for that; men may talke what they will, but ſure there is no <hi>ioy</hi> in the world to the <hi>ioy</hi> of a man <hi>ſaued:</hi> no <hi>ioy</hi> ſo great, no newes ſo welcome, as to one ready to periſh, in caſe of a loſt man, to heare of one, that will <hi>ſaue</hi> him. In danger of periſhing; By ſickneſſe, to heare of one will make him well againe: By ſentenceof the law, of one with a pardon to <hi>ſaue</hi> his life: By enemies, of one that will reſcue, and ſet him in ſafetie. Tell any of theſe, aſſure them but of a <hi>Sauiour,</hi> it is the beſt newes he euer heard in his life. There is <hi>ioy</hi> in the name of a <hi>Sauiour.</hi> And euen this way, this child is a <hi>Sauiour</hi> too. <hi>Poteſt hoc facere, ſed hoc non eſt opus eius.</hi> This he can doe, but this is not his worke: a further mat<g ref="char:EOLhyphen"/>ter there is, a greater <hi>ſaluation</hi> He came for. And it may be, wee need not any of theſe, we are not preſently ſicke, in no feare of the law, in no danger of enemies. And it may be, if we were, we fancie to our ſelues to bee releeued ſome other way. But, that which he came for, that <hi>ſauing</hi> wee need all, and
+<pb n="23" facs="tcp:176668:37"/>none but He can helpe vs to it. We haue therefore all cauſe to be glad for the birth of this <hi>Sauiour.</hi>
+                     </p>
+                     <p>I know not how, but when we heare of <hi>ſauing,</hi> or mention of a <hi>Sauiour,</hi> preſently our mind is caried to the ſauing of our skin, of our temporall ſtate, of our bodily life, and further <hi>ſauing</hi> we thinke not of. But, there is another life, not to be forgotten, and grea<g ref="char:EOLhyphen"/>ter the dangers; and the deſtruction there, more to be feared then of this here, and it would be well, ſometimes we were remem<g ref="char:EOLhyphen"/>bred of it. Beſides our skinne and fleſh; a <hi>ſoule</hi> we haue, and it is our better part by far, that alſo hath need of a <hi>Sauiour,</hi> that hath her <hi>deſtruction,</hi> out of which: that hath her <hi>deſtroyer,</hi> from which ſhe would bee ſaued, and thoſe would be thought on. Indeed our chiefe thought and care would be for that, how to eſcape the wrath, how to be ſa<g ref="char:EOLhyphen"/>ued from the deſtruction to come, whither our ſinnes will certainly bring vs.</p>
+                     <p>Sinne it is, wil deſtroy vs all. And (to ſpeake of a <hi>Sauiour</hi>) there is no perſon on earth hath ſo much need of a <hi>Sauiour,</hi> as hath a <hi>ſinner:</hi>
+                        <pb n="24" facs="tcp:176668:38"/>nothing ſo dangerous, ſo deadly vnto vs, as is the <hi>ſinne</hi> in our boſome, nothing from which we haue ſo much need to bee <hi>ſaued,</hi> whatſoeuer account we make of it. From it, commeth vpon vs all the euill of this life: and from it, all the euill of the life to come; in compariſon whereof, theſe here are not worth the ſpeaking of. Aboue all then, we need a <hi>Sauiour; for</hi> our <hi>ſoules;</hi> and <hi>from</hi> our <hi>ſinnes,</hi> and from the euerlaſting deſtruction, which ſinne will bring vpon vs in the other life, not farre from vs, not from him of vs, that thinketh it fartheſt of.</p>
+                     <p>Then, if it bee <hi>good tidings</hi> to heare of a <hi>Sauiour,</hi> where it is but a matter of the loſſe of <hi>earth,</hi> or of this <hi>life</hi> here: how then, when it commeth to the loſſe of <hi>Heauen;</hi> to the danger of <hi>Hell,</hi> when our <hi>ſoule</hi> is at the ſtake, and the wel doing or vndoing of it for euer? He that could <hi>ſaue</hi> our <hi>ſoules,</hi> from that <hi>de<g ref="char:EOLhyphen"/>ſtroyer,</hi> were not the birth of ſuch a one good newes trow? Is not ſuch a <hi>Sauiour</hi> worth the hearkening after? Is hee not? It is then becauſe we haue not that ſenſe of our <hi>ſoules,</hi> and the dangers of them that we
+<pb n="25" facs="tcp:176668:38"/>haue of our <hi>bodies:</hi> nor that feare of our ghoſtly enemies, nor that liuely apprehenſi<g ref="char:EOLhyphen"/>on of the eternall torments of that place, and how neere wee are to it, (nothing be<g ref="char:EOLhyphen"/>ing betwixt vs and it, but this poore puffe of breath which is in our noſtrils:) Our <hi>car<g ref="char:EOLhyphen"/>nall</hi> part is quicke and ſenſible, our <hi>spirituall</hi> is dead and dull. We haue not the feeling of our <hi>ſinnes,</hi> that we haue of our <hi>ſickneſſe:</hi> if we had, we would heare this newes with greater cherefulneſſe, and holde <hi>this day</hi> of the <hi>birth</hi> of ſuch a <hi>Sauiour,</hi> with <hi>ioy</hi> indeede. We cannot conceiue it yet, this deſtruction is not neere ynough to affect vs.
+<note place="margin">Ier. 30.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</note> But in <hi>no<g ref="char:EOLhyphen"/>uiſsimo intelligetis planè,</hi> in the ende when the <hi>destroyer</hi> ſhall come, and we ſhall finde the want of a <hi>Sauiour,</hi> wee ſhall plainely vnderſtand this, and value this benefite, and the <hi>ioy</hi> of it as wee ought, and finde there is no <hi>ioy</hi> in the earth to the <hi>ioy</hi> of a <hi>Sauiour.</hi>
+                     </p>
+                     <p>
+                        <hi>There is borne a Sauiour,</hi> is the firſt.
+<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                        <note place="margin">Which is Chriſt.</note> The Angel addeth further, <hi>A Sauiour, which is Chriſt.</hi> For many <hi>Sauiours</hi> had been borne, many had God ſent them, that at diuers
+<pb n="26" facs="tcp:176668:39"/>times had ſet them free from diuers dangers of their enemies, <hi>Moſes</hi> from the <hi>Egyptians, Ioſhua</hi> from the <hi>Canaanites, Gideon</hi> from the <hi>Madianites, Iepthe</hi> from the <hi>Ammonites, Sam<g ref="char:EOLhyphen"/>ſon</hi> from the Philiſtims. And indeed, the whole ſtorie of the Bible is nothing elſe but a Calender of <hi>Sauiours</hi> that God from time to time ſtill ſtirred them vp.</p>
+                     <p>But theſe all were but pettie <hi>Sauiours,</hi> there was one yet behind, that was worth them all.
+<note place="margin">Matth. 1.21</note> One that ſhould <hi>ſaue his people from their ſinnes; Saue,</hi> not their <hi>bodies</hi> for a <hi>time,</hi> but their <hi>ſoules</hi> for <hi>euer,</hi> which none of thoſe <hi>Sauiours</hi> could doe. One there<g ref="char:EOLhyphen"/>fore much ſpoken of, wiſhed for and waited for, <hi>a Sauiour which was Chriſt:</hi> when he came they looked for great matters, as ſaid the Woman at the well ſide:
+<note place="margin">Ioh. 4.25.</note> For he was the moſt famous and greateſt <hi>Sauiour</hi> of all. And this is He, <hi>A Sauiour, which is Christ. He</hi> of whom all the <hi>Promiſes</hi> made mention, and <hi>He</hi> the <hi>performance</hi> of them all: of whom all the <hi>Types</hi> vnder the Lawe were <hi>ſhadowes,</hi> and <hi>He</hi> the <hi>ſubſtance</hi> of the<g ref="char:cmbAbbrStroke">̄</g> all: Of whom all the <hi>Propheſies</hi> ranne, and <hi>He</hi> the <hi>fulfilling</hi> of
+<pb n="27" facs="tcp:176668:39"/>them all; <hi>He,</hi> of whom all thoſe inferiour <hi>Sauiours</hi> were the <hi>figures</hi> and forerunners, and <hi>He</hi> the <hi>accompliſhment</hi> of all that in them was wanting. This is <hi>He:</hi> Iacobs
+<note n="a" place="margin">Gen. 49.10.</note> 
+                        <hi>Shi<g ref="char:EOLhyphen"/>lo,</hi> Eſayes
+<note n="b" place="margin">Eſa. 7.14</note> 
+                        <hi>Emmanuel,</hi> Ieremies
+<note n="c" place="margin">Ier. 23.5.</note> 
+                        <hi>Branch,</hi> Da<g ref="char:EOLhyphen"/>niels
+<note n="d" place="margin">Dan. 9.25</note> 
+                        <hi>Meſsias,</hi> Zacharies
+<note n="e" place="margin">Zach. 6.12 c. 1.27.</note> 
+                        <hi>Oriens ab alto,</hi> Ag<g ref="char:EOLhyphen"/>geys
+<note n="f" place="margin">Agg. 2.8.</note> 
+                        <hi>Deſideratus cunctis Gentibus.</hi> The <hi>Deſire</hi> of all the nations then; and now the <hi>ioy</hi> of all nations: <hi>a Sauiour, which is Christ.</hi>
+                     </p>
+                     <p>And what is meant by this terme <hi>Chriſt?</hi> A <hi>Sauiour anointed,</hi> or (as in another place it is ſaid, more agreeable to our phraſe of ſpeaking) a <hi>Sauiour ſealed,</hi>
+                        <note place="margin">Ioh. 6.27.</note> a <hi>Sauiour vnder Gods great ſeale,</hi> That is, not as thoſe other were, <hi>Sauiours</hi> raiſed vp of a ſudden, vpon ſome occaſion; to ſerue the turne for the pre<g ref="char:EOLhyphen"/>ſent, and neuer heard of till they came: but a <hi>Sauiour</hi> in Gods forecounſaile reſolued on, and giuen forth, from the beginning, pro<g ref="char:EOLhyphen"/>miſed and fore told, and now ſigned and ſent, with abſolute Commiſsion and ful<g ref="char:EOLhyphen"/>neſſe of power, to bee the perfect and com<g ref="char:EOLhyphen"/>pleate <hi>Sauiour</hi> of all.</p>
+                     <p>And to be it, <hi>ex officio:</hi> His office, his very profeſsion, to be one, that all may haue right
+<pb n="28" facs="tcp:176668:40"/>to repaire vnto him, and find it at his hands. Not a <hi>Sauiour</hi> incidently, as it fell out: but one <hi>ex profeſso, anointed</hi> to that ende, and by vertue of his <hi>anointing</hi> appointed, ſet forth, and ſent into the world to exerciſe this function of a <hi>Sauiour:</hi> not for a time, but for euer, not to the <hi>Iewes</hi> as did the reſt, but euen to <hi>all the ends of the earth.</hi> So runnes his Bill,
+<note n="a" place="margin">Mat. 11.28.</note> 
+                        <hi>Venite ad me omnes.</hi> Come all: and
+<note n="b" place="margin">Ioh. 6.37.</note> 
+                        <hi>Qui ad me venerit non eijciam foras,</hi> of them that come to me, I will caſt none out.
+<note n="c" place="margin">1. Tim. 4.11.</note> 
+                        <hi>Ser<g ref="char:EOLhyphen"/>uator omnium hominum,</hi> the Sauiour of all men (and as the <hi>Samaritanes</hi> ſaid of him,
+<note n="d" place="margin">Ioh. 4.42.</note> 
+                        <hi>Seruator mundi,</hi> The Sauiour of the world,) of Samaritanes, Iewes, Gentiles: of Kings, of Shepheards and all.</p>
+                     <p>And there is yet more particularitie in this word <hi>Chriſt: Three</hi> offices did God from the beginning erect to <hi>ſaue</hi> his people by, and that by <hi>three</hi> acts. The very heathen tooke notice of them, <hi>Purgare, Illuminare, Perficere. Priests,</hi> to purge or expiate: <hi>Pro<g ref="char:EOLhyphen"/>phets,</hi> to illuminate or direct them; <hi>Kings,</hi> to ſet all right, and to keepe all right, in that perfection, which this worlde admitteth.
+<pb n="32" facs="tcp:176668:40"/>And all theſe three had their ſeuerall <hi>anoin<g ref="char:EOLhyphen"/>tings. Aaron</hi> the <hi>Prieſt,</hi> Leu. 8.12. <hi>Eliſa</hi> the <hi>Prophet,</hi> 1. Reg. 19.16. <hi>Saul</hi> the <hi>King,</hi> 1. Sam. 10.1. In the <hi>Sauiour</hi> which is Chriſt; his will was all ſhould meete, that nothing in him might want to the perfecting of this worke. That <hi>He</hi> might bee a perfect <hi>Sauiour</hi> of all, He was all. <hi>A Prieſt after the order of Mel<g ref="char:EOLhyphen"/>chiſedek,</hi> Pſal. 110.4. A <hi>Prophet,</hi> to be heard when <hi>Moſes</hi> ſhould hold his peace, Deut. 18.18. A King to <hi>ſaue</hi> his people, <hi>whoſe name ſhould bee Iehoua iuſtitia noſtra,</hi> Ie. 23.6. <hi>Da<g ref="char:EOLhyphen"/>uids</hi> Prieſt, <hi>Moſes</hi> Prophet, <hi>Ieremies</hi> King.</p>
+                     <p>And theſe formerly had met <hi>double,</hi> two of them in ſome other; <hi>Melchiſedek,</hi> King and Prieſt; <hi>Samuel,</hi> Prieſt and Prophet; <hi>Da<g ref="char:EOLhyphen"/>uid,</hi> Prophet and King. Neuer all <hi>three,</hi> but in him alone, and ſo <hi>no perfect Christ</hi> but He: but He all, and ſo <hi>perfect.</hi> By his <hi>Prieſt<g ref="char:EOLhyphen"/>hood,</hi> to purge, expiate, and <hi>ſaue vs from our ſinnes,</hi>
+                        <note place="margin">1. Io. 2.2.</note> being a <hi>propitiation to God for them:</hi> By his <hi>propheſie,</hi> to illuminate and <hi>ſaue</hi> vs from the by paths of errour, <hi>guiding our feet in the way of peace.</hi>
+                        <note place="margin">c. 1.79.</note> By his <hi>kingdom</hi> protecting and conducting vs through the miſe<g ref="char:EOLhyphen"/>ries
+<pb n="30" facs="tcp:176668:41"/>of this life, till He perfect vs eternally by himſelfe in the ioyes of his heauenly king<g ref="char:EOLhyphen"/>dom. Rightly then, <hi>a Sauiour which is Chriſt.</hi>
+                     </p>
+                     <p>Now, as in the name <hi>Sauiour</hi> there was, ſo is there likewiſe <hi>ioy</hi> in this Name <hi>Christ,</hi> and that many wayes. Firſt, that we ſhall hang no more in expectation, We ſhall bee no longer, <hi>Vincti Spei,</hi> Hopes priſoners. <hi>He that ſhould come,</hi>
+                        <note place="margin">Zach. 9.12.</note> 
+                        <hi>is come.</hi> The promiſed Sauiour, <hi>The Sauiour, which is Chriſt,</hi> is now borne, and when <hi>spes</hi> becomes <hi>res,</hi> then our <hi>ioy</hi> is <hi>full.</hi> 2. That now, there is a <hi>Sa<g ref="char:EOLhyphen"/>uing Office</hi> erected, one <hi>anointed</hi> to that ende, a profeſſed <hi>Sauiour,</hi> to whom all may reſort. We ſhall not be to ſeeke, <hi>there is a Name giuen vnder Heauen,</hi>
+                        <note place="margin">Act. 4.12.</note> whereby wee may be ſure of <hi>ſaluation,</hi> the name of <hi>Chriſt.</hi> 3. That to this our <hi>ſauing,</hi> wee haue the ioynt conſent and good will of all parties; in this Name <hi>Chriſt. Chriſt,</hi> (that is) the <hi>An<g ref="char:EOLhyphen"/>oynted,</hi> what perſon is He? The <hi>Sonne,</hi> the <hi>ſecond</hi> Perſon. <hi>Anoynted,</hi> by whom? By the <hi>Father: Quem vnxiſti,</hi> Acts 4.27. the <hi>firſt</hi> Perſon. <hi>Anoynted,</hi> with what? <hi>With the holy Ghoſt.</hi> Acts 10.38. The <hi>third</hi> Perſon. So a
+<pb n="31" facs="tcp:176668:41"/>concurrence of <hi>all Perſons</hi> in this Name; all willing and well pleaſed, with the worke of our <hi>Saluation.</hi> 4. If we would be ſaued, we would be ſaued <hi>vnctione,</hi> by oyle,
+<note place="margin">Cant. 1.2.</note> not by vineger. <hi>Et vnguentum effuſum nomen eius.</hi> And his Name is <hi>Chriſt,</hi> one that ſa<g ref="char:EOLhyphen"/>ueth by <hi>anoynting.</hi> 5. And if by <hi>oyle,</hi> (there bee hote <hi>Oyles</hi>) with a gentle lenitiue <hi>Oyle.</hi> And the <hi>Oyle</hi> which he vſeth, wherewith he is <hi>anoynted,</hi> is, <hi>the Oyle of gladneſſe. Glad<g ref="char:EOLhyphen"/>neſſe</hi> therefore muſt needes goe with this Name. Which <hi>Oyle of gladneſſe</hi> is not for <hi>Himſelfe,</hi> but for <hi>vs:</hi> not for <hi>His</hi> vſe, but for <hi>ours.</hi> So he ſaith himſelfe, in his firſt Ser<g ref="char:EOLhyphen"/>mon at <hi>Nazareth,</hi> vpon his Text out of Eſa. 61.2. <hi>The annoynting</hi> (this <hi>Oyle of gladneſſe</hi>) <hi>was vpon him</hi> to beſtowe it vpon vs: and of vs; vpon them eſpecially, that through a wounded conſcience, were troubled with the <hi>ſpirit of heauineſſe,</hi> to turne their hea<g ref="char:EOLhyphen"/>uineſſe into <hi>ioy. Glad</hi> then; that Hee is come: that by his office is to <hi>ſaue:</hi> and come with the good liking of all: to <hi>ſaue</hi> vs by <hi>Oyle:</hi> and that <hi>the Oyle of gladneſſe.</hi>
+                     </p>
+                     <p>And yet to make our <hi>ioy</hi> more <hi>full,</hi>
+                        <milestone type="tcpmilestone" unit="unspecified" n="3"/> the Angel addeth the third. <hi>A Sauiour,</hi>
+                        <note place="margin">Chriſt the Lord.</note> 
+                        <hi>which is
+<pb n="29" facs="tcp:176668:42"/>Chriſt. Chriſt the Lord.</hi> For neither is this all. He is not <hi>Christ</hi> onely. Wee muſt not ſtay there. For the Name Chriſt will agree, hath beene and may be imparted to others beſides. Many a <hi>King</hi> in Scripture, hath had the honour to cary the Name of <hi>Chriſt,</hi> but with a difference. The King, <hi>Chriſtus Domini,</hi> the Lords Chriſt: He, <hi>Chriſtus Do<g ref="char:EOLhyphen"/>minus,</hi> the Lord Chriſt, or <hi>Chriſt the Lord. Conſider then how great this Childe is,</hi>
+                        <note place="margin">Heb. 7.4.</note> whoſe <hi>Anoynted,</hi> Kings themſelues are. For if they be <hi>Christi Domini,</hi> the Lords Anointed, <hi>His</hi> they are, for <hi>He</hi> is the <hi>Lord.</hi> The <hi>Lord</hi> ab<g ref="char:EOLhyphen"/>ſolute, without any addition; ye may put to it what yee will, <hi>Lord</hi> of men and Angels, <hi>Lord</hi> of heauen and earth, and all the Hoſts of them. <hi>Dominus Chriſtorum,</hi> and <hi>Dominus Dominorum, Lord paramount</hi> ouer all.</p>
+                     <p>But, why the <hi>Lord?</hi> Becauſe this name of <hi>Christ</hi> will ſort with men. Nay, as Hee is <hi>Chriſt</hi> (that is <hi>Anointed</hi>) He is <hi>man</hi> onely. It is his name as <hi>man,</hi> for <hi>God</hi> cannot be <hi>anoin<g ref="char:EOLhyphen"/>ted.</hi> But Hee that ſhould ſaue vs would be more then <hi>man,</hi> and ſo more then <hi>Christ.</hi> In<g ref="char:EOLhyphen"/>deed, <hi>Chriſt</hi> cannot ſaue vs. Hee that muſt
+<pb n="36" facs="tcp:176668:42"/>ſaue vs muſt be the <hi>Lord.</hi>
+                        <note place="margin">Heb. 7.28.</note> For <hi>ſuch a Sauiour it behooueth vs to haue,</hi> as might not begin the worke of our <hi>Saluation,</hi> and leaue it in the middeſt, but goe through with it, and make an end too; which the former <hi>Saui<g ref="char:EOLhyphen"/>ours</hi> could not doe. Formerly, euer their complaint was, that their <hi>Sauiours,</hi> their <hi>Chriſts</hi> died ſtill, and le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t them to ſeeke: their <hi>Kings,</hi> and <hi>Prieſts,</hi> and <hi>Prophets</hi> dropt away ſtill;
+<note place="margin">Heb. 7.23.24.</note> for <hi>they were not ſuffered to endure by reaſon of death.</hi> But this <hi>Sauiour,</hi> this <hi>Chriſt,</hi> becauſe hee is the <hi>Lord, endureth for euer, hath an euerlaſting Prieſthood,</hi> kingdome, &amp; propheſie, and <hi>ſo is able perfectly to ſaue them that come to God by him.</hi> This is one reaſon, why, hither wee muſt come at the laſt, to <hi>Chriſt the Lord,</hi> and till we be at it, we be not where we ſhould. Els our <hi>Sauiours</hi> will die, and leaue vs deſtitute.</p>
+                     <p>But the mayne reaſon is ſet downe by Eſay, <hi>Fgoſum, Egoſum,</hi>
+                        <note place="margin">Eſa. 43.11.</note> (ſaith God himſelfe) <hi>&amp; praeter me, non eſt ſeruator.</hi> It is I, I that am the <hi>Sauiour, I am, and beſides me, there is no Sauiour.</hi> None in<g ref="char:EOLhyphen"/>deed, no true <hi>Sauiour,</hi> but <hi>the Lord.</hi> All o<g ref="char:EOLhyphen"/>ther
+<pb n="34" facs="tcp:176668:43"/>are ſhort, <hi>Vana ſalus hominis,</hi> ſayth the Pſalme, <hi>mans ſaluation is vaine,</hi> any <hi>ſaluati<g ref="char:EOLhyphen"/>on</hi> is vaine, if it be not the <hi>Lords.</hi> 1. Thoſe <hi>Chriſts,</hi> that were not the <hi>Lord,</hi> could ſaue but the <hi>bodie,</hi> and not one of them <hi>quicken his owne ſoule: Chriſt that is the Lord,</hi> can ſaue <hi>ſoules</hi> and <hi>bodies,</hi> his <hi>owne</hi> and <hi>others</hi> both. 2. Thoſe <hi>Christs</hi> that were not <hi>the Lord,</hi> could ſaue but from <hi>carnall enemies,</hi> with armes of fleſh: <hi>He</hi> from our <hi>ghoſtly ene<g ref="char:EOLhyphen"/>mies,</hi> euen ſpirituall wickedneſſes in heauen<g ref="char:EOLhyphen"/>ly places, from <hi>Abaddon</hi> the great deſtroyer, of the bottomles pit. 3. They, that were not the <hi>Lord,</hi> could <hi>ſaue</hi> but from <hi>worldly cala<g ref="char:EOLhyphen"/>mities,</hi> could but prune and take of the twigs (as it were:) He from ſinne it ſelfe, and ſo plucketh it vp by the roots. 4. They, that were not the <hi>Lord,</hi> put it off but for a time, and after it came againe, <hi>Temporall</hi> onely. He for euer, once for all: and <hi>is become Au<g ref="char:EOLhyphen"/>thour of eternall ſaluation,</hi>
+                        <note place="margin">Heb 5.9.</note> to all that depend on him. And marke that word <hi>[eternall:]</hi> For none but the <hi>Lord</hi> can worke <hi>eternall ſaluation.</hi> 5. They all had need of a <hi>Saui<g ref="char:EOLhyphen"/>our</hi> themſelues, and, of this <hi>Sauiour;</hi> Hee
+<pb n="35" facs="tcp:176668:43"/>needs none, receiues of none, imparts to all; as being not a <hi>Sauiour</hi> onely,
+<note place="margin">Ver. 30.</note> but <hi>Salus ipſa in abſtracto,</hi> Saluation it ſelfe, (as <hi>Simeon</hi> cal<g ref="char:EOLhyphen"/>leth him,) <hi>of whoſe fulneſſe we all receiue.</hi>
+                        <note place="margin">Io. 1.</note> To <hi>ſaue,</hi> may agree to <hi>man.</hi> To be <hi>ſaluation,</hi> can agree to none but to <hi>Chriſt the Lord.</hi> To begin, and to end: to ſaue ſoule and bodie, from bodily and ghoſtly enemies: from ſinne the roote, and miſerie the branches: for a time, and for euer; to be a <hi>Sauiour,</hi> and to be <hi>Saluation</hi> it ſelfe, <hi>Chriſt the Lord</hi> is all this, and can do all this. Now then we are right, and neuer till now <hi>A Sauiour, which is Chriſt the Lord.</hi>
+                     </p>
+                     <p>But the name <hi>Lord,</hi> goeth yet further: not onely to <hi>ſaue</hi> vs, and ſet vs free from dan<g ref="char:EOLhyphen"/>ger, to deliuer vs from euill: but to ſtate vs in as good and better condition, then we for<g ref="char:EOLhyphen"/>feited by our fall, or elſe though we were <hi>ſa<g ref="char:EOLhyphen"/>ued,</hi> we ſhould not <hi>ſaue</hi> by the match. To make vs then <hi>ſauers,</hi> and not <hi>ſauers</hi> alone, but <hi>gainers,</hi> and that great <hi>gainers</hi> by our <hi>ſaluation,</hi> he doeth further impart alſo the eſtate annexed of this laſt title, euen what<g ref="char:EOLhyphen"/>ſoeuer he is <hi>Lord</hi> of himſelfe. And he is <hi>Lord
+<pb n="33" facs="tcp:176668:44"/>of life</hi> ſayth <hi>S. Peter.</hi> Act. 3.15. <hi>Life</hi> then he imparts. And he is <hi>Lord of Glory</hi> ſayth <hi>Saint Paul,</hi> 1. Cor. 2.8. <hi>Glory</hi> then he imparts. And he is <hi>Lord of Ioy. Intra in gaudium Domini. Enter into the ioy of the Lord.</hi> Matth. 25.21. <hi>Ioy</hi> then He imparts. <hi>Life,</hi> and <hi>Glory,</hi> and <hi>Ioy,</hi> and makes vs <hi>Lords</hi> of them, &amp; of what<g ref="char:EOLhyphen"/>ſoeuer is within the Name, and title of <hi>Lord.</hi> For, hauing thereto a double right, by <hi>Inhe<g ref="char:EOLhyphen"/>ritance</hi> as the Sonne, Heb. 1.2. And by <hi>pur<g ref="char:EOLhyphen"/>chaſe</hi> as a Redeemer (for <hi>therefore he died, and roſe againe that he might be Lord of all,</hi> Rom. 14.9.) contenting himſelfe with the former, He is well pleaſed to ſet ouer the latter to vs, and admit vs with himſelfe into his eſtate of ioynt purchaſe of heauen, or whatſoeuer he is owner of, that, in right of it, we may enter into the <hi>life, glory,</hi> and <hi>ioy,</hi> of <hi>our Lord,</hi> and ſo be <hi>ſaued</hi> and be <hi>ſauers,</hi> &amp; more then <hi>ſauers,</hi> euery way. This alſo, is in the word <hi>Lord:</hi> this benefit further we haue by it.</p>
+                     <p>And now, if we will put together, <hi>Natus</hi> and <hi>Seruator, Seruator</hi> and <hi>Christus, Chriſtus</hi> and <hi>Dominus, Dominus</hi> and <hi>Natus: Borne</hi>
+                        <pb n="37" facs="tcp:176668:44"/>and <hi>Sauiour, Sauiour</hi> and <hi>Christ, Chriſt</hi> and the <hi>Lord,</hi> the <hi>Lord</hi> &amp; <hi>Borne:</hi> take them which way ye wil in combination, any of the <hi>foure,</hi> then haue we his two natures in one perſon. In <hi>Seruator</hi> his <hi>Godhead:</hi> None but <hi>God</hi> is a <hi>Sauiour.</hi> In <hi>Chriſtus</hi> his <hi>Manhood.</hi> God ca<g ref="char:cmbAbbrStroke">̄</g>not be <hi>anointed, Man</hi> may. In <hi>Dominus</hi> his <hi>diuine</hi> againe; <hi>the Lord</hi> from heauen. In <hi>Natus</hi> his humane nature, directly, <hi>borne of a woman.</hi> Both euer carefully ioyned, and to be ioined together. When <hi>S. Matthew</hi> had begun his Goſpel thus.
+<note place="margin">Matth. 1.1.</note> 
+                        <hi>The booke of the generation of Ieſus Chriſt the ſon of Dauid,</hi> one nature, His humanitie: <hi>Saint Marke</hi> vvas carefull to begin his thus;
+<note place="margin">Mar. 1.1.</note> 
+                        <hi>The beginning of the Gospel of Ieſus Chriſt the Sonne of God,</hi> the other nature, His diuinitie. But <hi>Saint Iohn,</hi> hee ioynes them, <hi>verbum caro factum eſt,</hi>
+                        <note place="margin">Iohn 1.14.</note> the Word became fleſh. <hi>Verbum</hi> the Word, there is <hi>Dominus;</hi> and <hi>Caro</hi> the Fleſh, that is, <hi>Natus.</hi>
+                     </p>
+                     <p>And euen this very <hi>coniunction</hi> is a new <hi>ioy.</hi> For that ſuch an one, that <hi>the Lord</hi> would condeſcend to be <hi>borne,</hi> (beſides the <hi>benefit,</hi>) there is alſo matter of <hi>Honour.</hi> Euen that He,
+<pb n="38" facs="tcp:176668:45"/>ſo great a perſon, would become ſuch as we are, would ſo eſteeme our nature, as to take it vpon him. This, certainely is a great <hi>dignitie</hi> and exaltation of our nature, and it is matter of new <hi>ioy:</hi> that <hi>He</hi> vvould ſo high<g ref="char:EOLhyphen"/>ly value it, as to aſſume, aſſociate, and vnite it into one perſon, vvith the <hi>Sonne of God.</hi> By this, wee ſee why a <hi>Sauiour:</hi> vvhy <hi>Chriſt:</hi> vvhy <hi>the Lord.</hi> A <hi>Sauiour,</hi> his name or <hi>bene<g ref="char:EOLhyphen"/>fit,</hi> whereby he is to deliuer vs. <hi>Chriſt,</hi> his name of <hi>Office,</hi> vvhereby he is bound to vn<g ref="char:EOLhyphen"/>dertake it. <hi>The Lord,</hi> his name of <hi>power,</hi> vvhereby he is able to effect it. We ſee alſo why <hi>Man,</hi> and why <hi>God.</hi> Firſt, So it ſhould be, for o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> right none vvas to make ſatisfacti<g ref="char:EOLhyphen"/>on for <hi>man,</hi> but <hi>man.</hi> And in very deed none was able to giue ſatisfaction to <hi>God,</hi> but <hi>God.</hi> So that, being to ſatisfie <hi>God</hi> for <hi>man,</hi> He vvas to be <hi>God</hi> and <hi>man. Secondly,</hi> So vve would wiſh it our ſelues: If we would be <hi>ſa<g ref="char:EOLhyphen"/>ued,</hi> we vvould be <hi>ſaued</hi> by one of our owne nature, not by any ſtranger. He <hi>is borne,</hi> and ſo one of our owne nature. Againe, if wee vvould bee <hi>ſaued,</hi> we vvould be <hi>ſaued,</hi> by no inferiour, but by the beſt: Hee <hi>is the Lord,</hi>
+                        <pb n="39" facs="tcp:176668:45"/>and ſo the very beſt of all. And ſo, our de<g ref="char:EOLhyphen"/>ſire is ſatiſfied euery vvay.</p>
+                     <p>This bleſſed <hi>birth</hi> of this <hi>Sauiour which is Chriſt the Lord,</hi> thus furniſhed in euery point, to ſaue vs throughly, body and ſoule, from <hi>Sinne</hi> the deſtruction, and <hi>Sathan</hi> the deſtroyer of both, and that, both here, and for euer; this bleſſed, and thrife bleſſed <hi>birth,</hi> is the ſubſtance of this dayes ſolemni<g ref="char:EOLhyphen"/>tie, of the Angels <hi>meſſage,</hi> and of our <hi>ioy.</hi>
+                     </p>
+                     <p>And now, to the <hi>Circumſtances:</hi>
+                        <note place="margin">The Cir<g ref="char:EOLhyphen"/>cumſtance of the Per<g ref="char:EOLhyphen"/>ſons to whom.</note> and firſt of the perſons <hi>vobis, I bring</hi> you <hi>good tidings; That to</hi> you <hi>is borne, &amp;c.</hi>
+                     </p>
+                     <p>We finde not any word through all, but there is <hi>ioy</hi> in it: and yet all is ſuſpended, till wee come to this one word <hi>[Vobis,]</hi> this makes vp all. This word therefore we ſhall do well euer to looke for, and when we find it, to make much of it. Nothing paſſeth without it; it is the word of application. But for it, all the reſt are looſe, this girds it on, this faſtens it to vs, and makes it <hi>ours.</hi> But for it, we are but in their caſe,
+<note place="margin">Mat. 8.29.</note> 
+                        <hi>Quid nobis &amp; tibi?</hi> What haue we to doe with thee? This
+<pb n="40" facs="tcp:176668:46"/>
+                        <hi>Sauiour Christ the Lord,</hi> in this good time and fit place, <hi>Quid ad nos?</hi> What are <hi>wee</hi> the better? <hi>Omni populo,</hi> is ſome what too ge<g ref="char:EOLhyphen"/>nerall, and the hundreth part of them, ſhall not be benefited by him. We would heare it in more particularitie. Why, <hi>vobis,</hi> for <hi>you</hi> it is, <hi>Borne for you:</hi> yea, now ye ſay ſome<g ref="char:EOLhyphen"/>what.</p>
+                     <p>And twiſe it is repeated for failing,
+<note place="margin">
+                           <hi>Euangelizo vobis,</hi> and <hi>Natus vo<g ref="char:EOLhyphen"/>bis.</hi>
+                        </note> in ei<g ref="char:EOLhyphen"/>ther verſe once. <hi>Euangelizo vobis,</hi> and <hi>natus vobis,</hi> that ye may know the <hi>meſſage</hi> is <hi>yours</hi> and the <hi>birth</hi> is <hi>yours:</hi> therefore, the <hi>meſſage</hi> is ſent to <hi>you,</hi> becauſe the <hi>birth</hi> concerneth <hi>you.</hi> But <hi>yours</hi> they be, both.</p>
+                     <p>May we then be bold to change the per<g ref="char:EOLhyphen"/>ſon,
+<note place="margin">The vſe we haue of it.</note> and vtter it in the <hi>firſt,</hi> which he doth in the <hi>ſecond,</hi> and ſay <hi>nobis?</hi> We may ſure, <hi>Pu<g ref="char:EOLhyphen"/>er natus eſt nobis,</hi>
+                        <note place="margin">Eſa. 9.6.</note> 
+                        <hi>Eſay</hi> hath ſaid it before vs. And thereby, lieth a myſterie; The Angels they ſay, <hi>Vobis,</hi> The Prophets were men, men ſay, <hi>Nobis.</hi> Bid the Angel ſay, <hi>Nobis,</hi> he cannot,
+<note place="margin">Heb. 2.16.</note> neither ſing nor ſay it: <hi>Angelis</hi> he cannot, to Angels, <hi>Nuſquam Angelos:</hi> but <hi>Hominibus,</hi>
+                        <note place="margin">verſ. 14.</note> vnto men, he can and doth. And this is a ſpeciall high prerogatiue; that which
+<pb n="41" facs="tcp:176668:46"/>the Angels can neither ſing nor ſay, <hi>wee</hi> can doe both.</p>
+                     <p>If then he be <hi>borne to vs,</hi> it is to ſome end. <hi>Eſay</hi> tels vs what it is, when he expoundeth <hi>Natus,</hi> by <hi>Datus, Borne to vs,</hi> by <hi>Giuen vs.</hi> Borne, to bee beſtowed vpon vs. And if <hi>giuen</hi> vs, <hi>beſtowed</hi> vpon vs, then hee is <hi>ours. Ours</hi> as a <hi>Sauiour, ours</hi> as <hi>Chriſt, Ours</hi> as the <hi>Lord. Ours</hi> His <hi>Benefit,</hi> His <hi>Office,</hi> His <hi>Pow<g ref="char:EOLhyphen"/>er:</hi> His <hi>Benefit</hi> to <hi>ſaue</hi> vs, His <hi>Office</hi> to <hi>vnder<g ref="char:EOLhyphen"/>take</hi> vs, His <hi>Power</hi> to <hi>aſſure</hi> vs. <hi>Ours,</hi> His <hi>ſaluation,</hi> as <hi>Ieſus,</hi> His <hi>anointing,</hi> as <hi>Chriſt,</hi> His <hi>Dominion,</hi> as the <hi>Lord.</hi> And if <hi>He</hi> be <hi>ours,</hi> then <hi>all His</hi> are <hi>ours.</hi>
+                        <note place="margin">Luk. 15.31.</note> 
+                        <hi>Omnia eius noſtra ſunt.</hi> His <hi>Birth ours,</hi> and if His <hi>Birth,</hi> all that follow His <hi>Birth, ours</hi> too.</p>
+                     <p>Now then, ſeeing <hi>He</hi> and <hi>they</hi> be <hi>ours,</hi> will it not be well done, to make our entrie, to take ſeiſin of him and them, and diſpoſe them to our beſt benefit? And how can we doe that better? Then, as <hi>God</hi> hath offered <hi>Him</hi> to vs, <hi>this day</hi> that he was <hi>borne for vs:</hi> ſo <hi>we</hi> reciprocally <hi>this day</hi> that <hi>He is borne,</hi> offer <hi>Him</hi> againe to <hi>God,</hi> as the beſt pleaſing Oblation that we can offer him. <hi>To day,</hi> as in
+<pb n="42" facs="tcp:176668:47"/>the <hi>Temple</hi> aliue, for our morning oblation: And when the time cometh of his death, offer Him as on the <hi>croſſe,</hi> ſlaine for our eue<g ref="char:EOLhyphen"/>ning Sacrifice. So ſhall we as <hi>Bernard</hi> wiſh<g ref="char:EOLhyphen"/>eth vs, <hi>vti noſtro, in vtilitatem noſtram, &amp; de Saluatore ſalutem operari.</hi> Employ, or ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e vſe of him for our beſt behoofe: drawe his proper extract from Him, and worke <hi>Salua<g ref="char:EOLhyphen"/>tion</hi> out of this our <hi>Sauiour.</hi>
+                     </p>
+                     <p>Now, a word onely, what is to be done on our parts, &amp; that reſpectiuely to theſe two points, what we are to returne to them, what to this <hi>Meſſage,</hi> and what to this <hi>Birth.</hi>
+                     </p>
+                     <p>To the <hi>Meſſage Euangelizo vobis,</hi>
+                        <note place="margin">Our duety reciprocall.</note> this we are to returne, this is due to a <hi>meſſage,</hi> to <hi>heare</hi> it.
+<note n="1" place="margin">To heare the meſſage</note> And, that we doe, and that is all; we come to the <hi>Sermon,</hi> wee <hi>heare</hi> it, and little we doe beſides. But we <hi>heare</hi> it but heauily, with a faint affection (God knoweth:) wee <hi>heare</hi> it not as an <hi>Ecce,</hi> as matter of high ad<g ref="char:EOLhyphen"/>miration: we <hi>heare</hi> it not as <hi>gaudium magnum,</hi> with that alacritie, and cheerfulnes wee ſhould. We <hi>heare</hi> it not as <hi>nobis,</hi> as if it neer<g ref="char:EOLhyphen"/>ly touched vs, but as a matter that little con<g ref="char:EOLhyphen"/>cerned
+<pb n="43" facs="tcp:176668:47"/>vs, it ſkilled not much, whither wee <hi>heard</hi> it or no. Many meaner things affect vs more, but this ſhould be the ioyfulleſt <hi>hearing</hi> that we euer <hi>heard.</hi>
+                     </p>
+                     <p>And ſhall we not likewiſe performe ſome duety to <hi>Natus eſt?</hi> yes eue<g ref="char:cmbAbbrStroke">̄</g> to that alſo.
+<note n="2" place="margin">To re<g ref="char:EOLhyphen"/>ceiue him.</note> And not <hi>heare of Him,</hi> and let <hi>Him</hi> alone: <hi>heare</hi> his <hi>tydings,</hi> and let <hi>Him</hi> ſel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e goe.</p>
+                     <p>He was <hi>borne for vs,</hi> and <hi>giuen vs Natus nobis,</hi> and <hi>Donatus nobis</hi> (both goe together in the Prophet) To a <hi>gift</hi> the duety that be<g ref="char:EOLhyphen"/>longeth properly, is to <hi>receiue</hi> it. It <hi>He</hi> be <hi>Natus nobis,</hi> &amp; <hi>Donatus nobis</hi> I truſt we will take order he be <hi>Acceptus à nobis.</hi> If <hi>borne vs,</hi> and <hi>giuen vs,</hi> it is our part then, we can doe no leſſe then <hi>receiue Him.</hi> We euacuate the <hi>gift,</hi> diſgrace both the <hi>giuer</hi> &amp; <hi>it,</hi> if we vouch<g ref="char:EOLhyphen"/>ſafe not to <hi>accept</hi> of it.</p>
+                     <p>How is that? How ſhall we <hi>receiue Him?</hi> who ſhall <hi>giue Him</hi> vs? That ſhall one, that will ſay vnto vs within a while, <hi>Accipite,</hi> Take,
+<note place="margin">Heb. 10.10</note> 
+                        <hi>This is my Bodie by the offering whereof ye are Sanctified. Take, this is my Blood, by the ſhedding whereof ye are ſaued.</hi> Both, in the holy Miſteries ordained by <hi>God,</hi> as pledges
+<pb n="44" facs="tcp:176668:48"/>to aſſure vs, and as Conduit Pipes to con<g ref="char:EOLhyphen"/>ueigh into vs, this and all other the benefits, that come by this our <hi>Sauiour.</hi>
+                     </p>
+                     <p>Verely, vpo<g ref="char:cmbAbbrStroke">̄</g> his <hi>memorable dayes,</hi> (of which this is the <hi>firſt</hi>) we are bound to doe ſome thing in <hi>memorie,</hi> or <hi>remembrance of him.</hi> What is that? Will yee know vvhat it is? <hi>Hoc facite, Doe this in remembrance of me.</hi>
+                     </p>
+                     <p>Something would bee thought on <hi>to re<g ref="char:EOLhyphen"/>turne him for all his benefits,</hi> and <hi>this day</hi> for this <hi>firſt,</hi> the fountaine of all the reſt; <hi>His Birth:</hi> Some thanks would be rendred Him for it. And how can we doe that bet<g ref="char:EOLhyphen"/>ter, then as we are taught by him, that ſtu<g ref="char:EOLhyphen"/>died the point of <hi>Quid retribuam,</hi> and re<g ref="char:EOLhyphen"/>ſolued it thus,
+<note place="margin">Pſa. 116-12</note> no way ſo well, as by <hi>Accipi<g ref="char:EOLhyphen"/>am Calicem: I will take the cuppe of Saluation,</hi> and ſo doe it: So, with it taken into our hads, <hi>giue thankes to the name of the Lord.</hi> And <hi>when</hi> better then <hi>to day? Hodiè</hi> as we are here directed. What better <hi>day</hi> then on <hi>this day,</hi> the very <hi>day</hi> he was beſtowed on vs. To deferre <hi>him,</hi> no longer, then <hi>hee</hi> did vs. He deferred not vs at all, but aſſoone as <hi>hee</hi> was <hi>borne,</hi> ſent vs word the <hi>ſame</hi> inſtant: and
+<pb n="45" facs="tcp:176668:48"/>ſhall we deferre <hi>Him to beare of vs an other time;</hi> and not be as ready on our part to <hi>re<g ref="char:EOLhyphen"/>ceiue him</hi> inſtantly, as he was on his, to <hi>be<g ref="char:EOLhyphen"/>ſtow himſelfe,</hi> euen preſently, as ſoone as He was <hi>borne?</hi> Sure ſomewhat would be done more then ordinarie, <hi>this day</hi> of His <hi>birth,</hi> the <hi>day</hi> it ſelfe is more then ordinarie.</p>
+                     <p>And let this moue vs. If euer there be a day of ſaluation, <hi>Ecce hic eſt dies ſalutis,</hi> Behold, this is it, when <hi>a Sauiour is borne vnto vs.</hi> If euer an accepted time, <hi>Ecce tempus ac<g ref="char:EOLhyphen"/>ceptum.</hi> Behold, now it is, this is that time. The <hi>birth day</hi> hath euer bin a time accepted. Then,
+<note place="margin">Gen. 40.21.</note> one king forgaue the treſpaſſe of his Seruant, and receiued him to Grace. An other, being pleaſed, was readie in his boun<g ref="char:EOLhyphen"/>tie to haue giuen away the <hi>one halfe of his kingdome.</hi> Our <hi>Sauiour Chriſt,</hi> Our <hi>Lord,</hi>
+                        <note place="margin">Mar. 6.23.</note> on his <hi>birth day</hi> will be no worſe then they. His bountie then, no leſſe then theirs.</p>
+                     <p>Let vs then make this ſo <hi>accepted a time</hi> in it ſelfe, twiſe acceptable, by our <hi>accepting:</hi> which, He wil acceptably take at our hands. Let vs honour <hi>this day,</hi> with our <hi>receiuing:</hi> which He hath honoured by his firſt <hi>giuing:</hi>
+                        <pb n="46" facs="tcp:176668:49"/>Yeelding him euermore, (but <hi>this day,</hi> the <hi>day</hi> of it, chiefly,) our vnfained hearty thankſ<g ref="char:EOLhyphen"/>giuing for this ſo <hi>good newes;</hi> for this ſo <hi>great a gift;</hi> both of them <hi>this day</hi> vouchſa<g ref="char:EOLhyphen"/>fed vs: in Him and for Him, who was him<g ref="char:EOLhyphen"/>ſelfe the gift, our <hi>Sauiour, Chriſt, the Lord.</hi> To whom with the <hi>Father,</hi> and <hi>the holy Ghoſt,</hi> three Perſons, one immortall, euerliuing, inuiſible, onely wiſe GOD; be all honour, glory, bleſsing, praiſe, and thankeſgiuing, this day and for euer.</p>
+                     <pb facs="tcp:176668:49"/>
+                  </div>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
